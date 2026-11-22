@@ -1,0 +1,18 @@
+Documentos: 10132
+Periodo: 2002-2027
+Tipos de documento: {'Article': 4928, 'Proceedings Paper': 4759, 'Review': 226, 'Article; Book Chapter': 90, 'Article; Proceedings Paper': 52, 'Article; Early Access': 31}
+Paises distintos: 130
+Top 10 paises: China (2124), USA (1928), India (1777), United Kingdom (566), Australia (554), Canada (506), Germany (420), Spain (354), Italy (341), South Korea (337)
+Brasil: 284 documentos (2.80%), posicao 14 no ranking
+Brasil com autor vinculado a Goias (endereco C1): 4
+   - 2024 | RIC-O: Efficient Placement of a Disaggregated and Distributed RAN Intelligent Controller With Dynamic Clusteri | IEEE JOURNAL ON SELECTED AREAS IN COMMUNICATIONS
+   - 2024 | Evaluating the Deployment of a Disaggregated Open RAN Controller on a Distributed Cloud Infrastructure | IEEE TRANSACTIONS ON NETWORK AND SERVICE MANAGEMENT
+   - 2025 | Planning Energy-Efficient Smart Industrial Spaces for Industry 4.0 | ENG
+   - 2021 | Resource Prediction Service for Efficient Execution of Bioinformatics Workflows in Federated Cloud with Machin | 2021 IEEE INTERNATIONAL CONFERENCE ON BIOINFORMATICS AND BIOMEDICINE, BIBM
+Docs com 'FinOps' no titulo/palavras-chave: 13
+
+Redes VOSviewer (itens, links):
+  palavras_chave   : (300, 15970)  (min 20 ocorrencias, max 300)
+  cocitacao_refs   : (279, 14078)  (min 40 citacoes, max 300)
+  paises           : (85, 1067)  (min 5 documentos)
+  cocitacao_fontes : (179, 15473)  (min 150 citacoes, max 200)

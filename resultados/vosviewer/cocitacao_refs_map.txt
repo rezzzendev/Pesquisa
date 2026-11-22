@@ -1,0 +1,280 @@
+id	label	weight<Citations>
+1	armbrust m (2010) commun acm	668
+2	calheiros rn (2011) software pract exper	607
+3	buyya r (2009) future gener comp sy	483
+4	beloglazov a (2012) future gener comp sy	298
+5	topcuoglu h (2002) ieee t parall distr	265
+6	zhang q (2010) j internet serv appl	232
+7	dean j (2004) usenix association proceedings of the sixth symposium on operating systems design and implementation (osde '04)	227
+8	beloglazov a (2012) concurr comp-pract e	215
+9	mell p (2010) commun acm	211
+10	abrishami s (2013) future gener comp sy	210
+11	juve g (2013) future gener comp sy	188
+12	rodriguez ma (2014) ieee t cloud comput	170
+13	chaisiri s (2012) ieee t serv comput	166
+14	shahrad m (2020) proceedings of the 2020 usenix annual technical conference	159
+15	mell p. (2011) nist definition clou	158
+16	lorido-botran t (2014) j grid comput	148
+17	islam s (2012) future gener comp sy	146
+18	greenberg a (2009) acm sigcomm comp com	144
+19	wang l (2018) proceedings of the 2018 usenix annual technical conference	138
+20	pandey s (2010) int con adv info net	135
+21	bonomi flavio. (2012) p 1 edition mcc work	134
+22	satyanarayanan m (2009) ieee pervas comput	128
+23	barham p. (2003) xen and the art of virtualization	128
+24	mell p. (2010) nist definition clou	126
+25	marston s (2011) decis support syst	126
+26	subashini s (2011) j netw comput appl	126
+27	amazon ()	125
+28	vaquero lm (2009) acm sigcomm comp com	125
+29	ming mao (2012) 2012 ieee 5th international conference on cloud computing (cloud)	117
+30	deb k (2002) ieee t evolut comput	115
+31	fan xb (2007) conf proc int symp c	114
+32	barroso la (2007) computer	112
+33	clark c (2005) usenix association proceedings of the 2nd symposium on networked systems design & implementation (nsdi '05)	109
+34	foster i (2008) gce: 2008 grid computing environments workshop	109
+35	calheiros rn (2015) ieee t cloud comput	104
+36	xiao z (2013) ieee t parall distr	101
+37	akkus ie (2018) proceedings of the 2018 usenix annual technical conference	101
+38	shi ws (2016) ieee internet things	101
+39	bittencourt lf (2011) j internet serv appl	100
+40	boyd stephen. (2009) convex optimization	98
+41	sotomayor b (2009) ieee internet comput	97
+42	github ()	97
+43	zhenhuan gong (2010) 6th international conference on network and service management (cnsm 2010)	96
+44	zhu zm (2016) ieee t parall distr	94
+45	schad j (2010) proc vldb endow	93
+46	byun ek (2011) future gener comp sy	92
+47	agache a (2020) proceedings of the 17th usenix symposium on networked systems design and implementation	92
+48	buyya r (2008) hpcc 2008: 10th ieee international conference on high performance computing and communications	91
+49	roy n (2011) int conf pervas comp	88
+50	iosup a (2011) ieee t parall distr	88
+51	cortez e (2017) proceedings of the twenty-sixth acm symposium on operating systems principles (sosp '17)	85
+52	jonas e (2017) proceedings of the 2017 symposium on cloud computing (socc '17)	83
+53	urgaonkar b (2008) acm t auton adap sys	81
+54	yang jz (2011) 2011 international conference on computer	81
+55	cooper b.f. (2010) acm socc	80
+56	qu ch (2018) acm comput surv	79
+57	buyya r (2010) lect notes comput sc	79
+58	zissis d (2012) future gener comp sy	79
+59	kandula s. (2010) imc	78
+60	oakes e (2018) proceedings of the 2018 usenix annual technical conference	78
+61	bharathi s (2008) 2008 third workshop on workflows in support of large-scale science (works 2008)	78
+62	alipourfard o (2017) proceedings of nsdi '17: 14th usenix symposium on networked systems design and implementation	77
+63	microsoft ()	77
+64	iqbal w (2011) future gener comp sy	76
+65	verma a (2008) lect notes comput sc	76
+66	manvi ss (2014) j netw comput appl	74
+67	agmon ben-yehuda o. (2011) proceedings of the 2011 ieee 3rd international conference on cloud computing technology and science (cloudcom 2011)	74
+68	kozyrakis christos (2014) quasar resourc eeffi	73
+69	ostermann s (2010) l n inst comp sci so	73
+70	sharma u (2011) int con distr comp s	72
+71	klimovic a (2018) proceedings of the 13th usenix symposium on operating systems design and implementation	71
+72	lee yc (2012) j supercomput	71
+73	baldini i. (2017) res adv cloud comput	70
+74	carreira j (2019) proceedings of the 2019 tenth acm symposium on cloud computing (socc '19)	70
+75	reiss c. (2012) acm socc	70
+76	beloglazov a (2013) ieee t parall distr	70
+77	qureshi a (2009) acm sigcomm comp com	70
+78	zhang cl (2019) proceedings of the 2019 usenix annual technical conference	68
+79	hochreiter s (1997) neural comput	68
+80	abrishami s (2012) ieee t parall distr	68
+81	jonas e (2019) arxiv	68
+82	pu qf (2019) proceedings of the 16th usenix symposium on networked systems design and implementation	68
+83	beloglazov anton (2010) proceedings 2010 10th ieee/acm international conference on cluster	68
+84	van den bossche r. (2010) 3rd international conference on cloud computing cloud	68
+85	gao yq (2013) j comput syst sci	68
+86	rochwerger b (2009) ibm j res dev	68
+87	garg sk (2013) future gener comp sy	67
+88	herbst nikolas roman (2013) proceedings of icac '13: 10th international conference on autonomic computing. icac '13	67
+89	rzadca k (2020) proceedings of the fifteenth european conference on computer systems (eurosys'20)	66
+90	deelman e (2015) future gener comp sy	66
+91	ghemawat sanjay. (2003) google file system	65
+92	malawski m (2015) future gener comp sy	65
+93	[no title captured] ()	65
+94	yu j (2005) first international conference on e-science and grid computing	64
+95	wu qw (2017) ieee t parall distr	64
+96	fouladi s (2017) proceedings of nsdi '17: 14th usenix symposium on networked systems design and implementation	64
+97	beloglazov a (2011) adv comput	63
+98	nurmi d (2009) ccgrid: 2009 9th ieee international symposium on cluster computing and the grid	63
+99	deelman e. (2005) scientific programming	63
+100	rimal bhaskar prasad (2009) proceedings of the 2009 fifth international joint conference on inc	63
+101	ming mao (2010) proceedings 2010 11th ieee/acm international conference on grid computing (grid 2010)	62
+102	gupta h (2017) software pract exper	62
+103	armbrust m. (2009) clouds berkeley view	62
+104	al-dhuraibi y (2018) ieee t serv comput	62
+105	google ()	62
+106	buyya rajkumar (2009) 2009 international conference on high performance computing & simulation (hpcs)	61
+107	al-roomi m (2013) int j grid distrib	61
+108	babu ldd (2013) appl soft comput	61
+109	han r (2014) future gener comp sy	60
+110	mao yy (2017) ieee commun surv tut	60
+111	calheiros rn (2014) ieee t parall distr	60
+112	ullman jd (1975) j comput syst sci	60
+113	du d (2020) twenty-fifth international conference on architectural support for programming languages and operating systems (asplos xxv)	60
+114	ristenpart t (2009) ccs'09: proceedings of the 16th acm conference on computer and communications security	60
+115	baliga j (2011) p ieee	60
+116	sahni j (2018) ieee t cloud comput	60
+117	shafiei h (2022) acm comput surv	59
+118	jia yu (2006) scientific programming	59
+119	ateniese g (2007) ccs'07: proceedings of the 14th acm conference on computer and communications security	59
+120	dillon t (2010) int con adv info net	59
+121	rui han (2012) proceedings of the 2012 12th ieee/acm international symposium on cluster	58
+122	singh s (2016) j grid comput	58
+123	reiss c. (2011) google cluster-usage traces: format + schema	58
+124	tordsson j (2012) future gener comp sy	58
+125	fernando n (2013) future gener comp sy	58
+126	low cy (2011) ind manage data syst	58
+127	calheiros r. n. (2011) 2011 international conference on parallel processing	56
+128	kusic d (2009) cluster comput	56
+129	sangho yi (2010) 2010 ieee 3rd international conference on cloud computing (cloud 2010)	56
+130	verma a (2017) parallel comput	56
+131	cuervo e. (2010) proceedings of the 8th international conference on mobile systems	56
+132	dinh ht (2013) wirel commun mob com	56
+133	ao lx (2018) proceedings of the 2018 acm symposium on cloud computing (socc '18)	55
+134	dean j (2008) commun acm	55
+135	varghese b (2018) future gener comp sy	55
+136	he km (2016) proc cvpr ieee	55
+137	aws.amazon ()	54
+138	mnih v (2015) nature	54
+139	decandia giuseppe (2007) operating systems review	54
+140	fouladi s (2019) proceedings of the 2019 usenix annual technical conference	54
+141	castro p (2019) commun acm	54
+142	wu fh (2015) j supercomput	54
+143	atzori l (2010) comput netw	54
+144	oliveira t (2014) inform manage-amster	54
+145	gan y (2019) twenty-fourth international conference on architectural support for programming languages and operating systems (asplos xxiv)	53
+146	kyoungsoo park (2006) operating systems review	53
+147	zaharia m. (2010) p 2 usenix c hot top	53
+148	botta a (2016) future gener comp sy	53
+149	zhan zh (2015) acm comput surv	53
+150	arunarani ar (2019) future gener comp sy	53
+151	al-fares m (2008) acm sigcomm comp com	53
+152	ali a (2020) proceedings of sc20: the international conference for high performance computing	52
+153	linlin wu (2011) 2011 proceedings of 11th ieee/acm international symposium on cluster	52
+154	van den bossche r (2013) future gener comp sy	52
+155	chun bg (2011) eurosys 11: proceedings of the eurosys 2011 conference	52
+156	singh g. (2008) [no title captured]	52
+157	su s (2013) parallel comput	52
+158	bobroff n (2007) 2007 10th ifip/ieee international symposium on integrated network management (im 2009)	52
+159	ali-eldin a (2012) ieee ifip netw oper	51
+160	fuerst a (2021) asplos xxvi: twenty-sixth international conference on architectural support for programming languages and operating systems	51
+161	vavilapalli v.k. (2013) socc	51
+162	verma ak (2015) parkinsons dis-us	51
+163	rodriguez ma (2017) concurr comp-pract e	51
+164	kennedy j (1995) 1995 ieee international conference on neural networks proceedings	51
+165	chen g. (2008) 2008 usenix s networ	50
+166	kephart jo (2003) computer	50
+167	vaquero lm (2011) acm sigcomm comp com	50
+168	vaswani a (2017) adv neur in	50
+169	wickremasinghe b (2010) int con adv info net	50
+170	wu zj (2013) j supercomput	50
+171	chen x (2016) ieee acm t network	50
+172	zhou xm (2019) future gener comp sy	50
+173	zuo xq (2014) ieee t autom sci eng	50
+174	sultan n (2010) int j inform manage	50
+175	mach p (2017) ieee commun surv tut	50
+176	sutton rs (2018) adapt comput mach le	49
+177	jennings b (2015) j netw syst manag	49
+178	xu h (2013) ieee t cloud comput	49
+179	jackson k.r. (2010) 2010 ieee second int. conf. cloud comput. technol. sci	49
+180	boneh d (2004) lect notes comput sc	49
+181	barrett e (2013) concurr comp-pract e	48
+182	kubernetes ()	48
+183	deelman e (2009) future gener comp sy	48
+184	braun td (2001) j parallel distr com	48
+185	roy rb (2022) asplos '22: proceedings of the 27th acm international conference on architectural support for programming languages and operating systems	48
+186	vecchiola c (2012) future gener comp sy	48
+187	hashem iat (2015) inform syst	48
+188	kosta s (2012) ieee infocom ser	48
+189	gentry c (2009) acm s theory comput	48
+190	kalra m (2015) egypt inform j	48
+191	dean j (2013) commun acm	47
+192	lin cy (2021) ieee t parall distr	47
+193	yang ya (2022) asplos '22: proceedings of the 27th acm international conference on architectural support for programming languages and operating systems	47
+194	mcgrath g (2017) ieee int con dis	47
+195	arabnejad h (2014) ieee t parall distr	47
+196	zhu xm (2014) ieee trans cloud com	47
+197	müller i (2020) sigmod'20: proceedings of the 2020 acm sigmod international conference on management of data	46
+198	yang jq (2014) inform syst front	46
+199	kumar j (2018) future gener comp sy	46
+200	delimitrou c (2013) acm sigplan notices	46
+201	ballani h (2011) acm sigcomm comp com	46
+202	venkataraman s (2016) 13th usenix symposium on networked systems design and implementation (nsdi '16)	46
+203	mell peter (2009) [no title captured]	46
+204	chen wn (2009) ieee t syst man cy c	46
+205	rao l. (2010) proc infocom 10	46
+206	song dxd (2000) p ieee s secur priv	46
+207	amiri m (2017) j netw comput appl	45
+208	hameed a (2016) computing	45
+209	marshall paul (2010) proceedings 2010 10th ieee/acm international conference on cluster	45
+210	ghobaei-arani m (2018) future gener comp sy	45
+211	amazon web services ()	45
+212	durillo jj (2014) cluster comput	45
+213	toosi an (2014) acm comput surv	45
+214	mahgoub a (2022) proceedings of the 16th usenix symposium on operating systems design and implementation	45
+215	elgamal t (2018) 2018 third ieee/acm symposium on edge computing (sec)	45
+216	voorsluys w (2009) lect notes comput sc	45
+217	kliazovich d (2012) j supercomput	45
+218	ali m (2015) inform sciences	45
+219	galante g (2012) int conf util cloud	44
+220	gandhi a (2012) acm t comput syst	44
+221	aws ()	44
+222	mckeown n (2008) acm sigcomm comp com	44
+223	krizhevsky alex. (2012) p adv neural inform	44
+224	chiang m (2016) ieee internet things	44
+225	deng rl (2016) ieee internet things	44
+226	faragardi hr (2020) ieee t parall distr	44
+227	berl a (2010) comput j	43
+228	yu ty (2020) proceedings of the 2020 acm symposium on cloud computing	43
+229	shillaker s (2020) proceedings of the 2020 usenix annual technical conference	43
+230	meisner d (2009) acm sigplan notices	43
+231	zhangjun wu (2010) proceedings 2010 international conference on computational intelligence and security (cis 2010)	43
+232	garg sk (2014) j netw comput appl	43
+233	arabnejad v (2019) ieee t parall distr	43
+234	satyanarayanan m (2017) computer	43
+235	pedregosa f (2011) j mach learn res	42
+236	li zj (2022) acm comput surv	42
+237	poola d (2014) procedia comput sci	42
+238	yi s (2012) ieee t serv comput	42
+239	sakellariou rizos. (2007) integrated res grid	42
+240	isard m. (2007) operating systems review	42
+241	kim j (2019) ieee int conf cloud	42
+242	chaisiri s (2009) 2009 ieee asia-pacific services computing conference (apscc 2009)	42
+243	zheng w (2013) j grid comput	42
+244	mao hz (2016) proceedings of the 15th acm workshop on hot topics in networks (hotnets '16)	42
+245	neely m.j. (2010) stochastic network optimization with application to communication and queueing systems	42
+246	gao px (2012) acm sigcomm comp com	42
+247	kivity avi. (2007) proceedings of the linux symposium	42
+248	mahgoub a (2021) proceedings of the 2021 usenix annual technical conference	41
+249	sreekanti v (2020) arxiv	41
+250	padala p (2009) eurosys'09: proceedings of the fourth eurosys conference	41
+251	mijumbi r (2016) ieee commun surv tut	41
+252	kumar k (2010) computer	41
+253	urdaneta g (2009) comput netw	41
+254	khan a (2012) ieee ifip netw oper	41
+255	palankar m.r. (2008) dadc '08: proc. of the 2008 int'l. workshop on data-aware distributed computing	41
+256	li zj (2018) ieee t serv comput	41
+257	li zj (2022) proceedings of the 2022 usenix annual technical conference	41
+258	mishra asit k. (2010) performance evaluation review	41
+259	simonyan k (2015) arxiv	41
+260	ferreto tc (2011) future gener comp sy	41
+261	takabi h (2010) ieee secur priv	41
+262	kumar m (2019) j netw comput appl	41
+263	rao j (2009) acm/ieee sixth international conference on autonomic computing and communications (icac '09)	40
+264	abadi m (2016) proceedings of osdi'16: 12th usenix symposium on operating systems design and implementation	40
+265	ishakian v (2018) int conf cloud eng	40
+266	ibm ()	40
+267	watkins cjch (1992) mach learn	40
+268	he s (2012) 2012 ieee international conference on intelligent control	40
+269	poola d (2014) int con adv info net	40
+270	zaharia m (2016) commun acm	40
+271	alicherry m (2012) ieee infocom ser	40
+272	khazaei h (2012) ieee t parall distr	40
+273	javadi b. (2011) proceedings of the 2011 ieee 4th international conference on utility and cloud computing (ucc 2011)	40
+274	wu cm (2014) future gener comp sy	40
+275	jain s (2013) acm sigcomm comp com	40
+276	juels a (2007) ccs'07: proceedings of the 14th acm conference on computer and communications security	40
+277	gubbi j (2013) future gener comp sy	40
+278	leavitt n (2009) computer	40
+279	xu x (2012) robot cim-int manuf	40

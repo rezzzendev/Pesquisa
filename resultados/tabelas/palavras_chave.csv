@@ -1,0 +1,201 @@
+palavra_chave,ocorrencias,ano_medio
+cloud computing,5198,2018.8
+optimization,665,2021.3
+resource allocation,511,2020.1
+internet of things,500,2021.5
+resource management,455,2021.1
+serverless computing,455,2023.3
+algorithm,447,2021.1
+management,439,2019.4
+quality of service,437,2019.5
+resource provisioning,427,2018.2
+security,393,2019.6
+virtual machines,363,2019.1
+edge computing,349,2022.7
+performance,348,2019.6
+scheduling,318,2019.5
+virtualization,287,2016.7
+model,282,2020.3
+machine learning,281,2022.2
+allocation,279,2020.4
+energy efficiency,275,2019.5
+internet,269,2021.6
+big data,265,2019.3
+task scheduling,260,2020.8
+framework,247,2020.3
+costs,246,2024.1
+autoscaling,241,2020.7
+energy,239,2019.7
+cost,236,2020.6
+service level agreement,216,2017.5
+fog computing,200,2021.0
+load balancing,198,2019.4
+data centers,193,2020.0
+servers,191,2022.6
+cost optimization,177,2021.3
+workflow scheduling,177,2020.6
+system,174,2020.7
+privacy,167,2019.4
+energy consumption,165,2021.3
+genetic algorithm,164,2019.6
+computational modeling,163,2023.1
+systems,161,2019.8
+simulation,159,2019.4
+algorithms,157,2019.0
+service,156,2018.8
+elasticity,150,2018.9
+placement,149,2020.9
+challenges,143,2020.6
+efficient,143,2020.9
+reinforcement learning,140,2023.0
+task analysis,135,2021.9
+architecture,133,2020.1
+scientific workflows,133,2019.9
+scalability,130,2020.5
+reliability,125,2020.5
+consolidation,123,2019.9
+deep learning,121,2022.9
+prediction,119,2020.3
+blockchain,119,2022.8
+mapreduce,118,2016.7
+design,117,2019.0
+data center,117,2017.5
+artificial intelligence,109,2023.3
+networks,106,2020.6
+migration,106,2019.8
+iaas,103,2018.0
+things,103,2021.0
+network,102,2020.7
+cloud security,99,2019.9
+hybrid cloud,98,2017.9
+cloud storage,98,2018.8
+kubernetes,97,2023.3
+cloud services,97,2018.0
+deep reinforcement learning,96,2024.1
+scheme,92,2020.8
+heuristic algorithms,92,2022.9
+workflow,91,2019.4
+power,88,2019.0
+edge,87,2022.8
+aware,87,2021.5
+makespan,87,2020.6
+containers,86,2022.8
+pricing,86,2018.9
+delays,84,2022.9
+encryption,84,2020.0
+multi cloud,83,2020.0
+strategy,83,2020.8
+spot instances,81,2019.3
+mobile cloud computing,80,2018.5
+cost efficiency,80,2019.8
+microservices,79,2023.1
+resource utilization,79,2021.0
+fault tolerance,78,2018.7
+dynamic scheduling,78,2023.2
+particle swarm optimization,78,2019.8
+workload prediction,77,2020.5
+multi objective optimization,77,2021.8
+storage,75,2019.6
+saas,75,2015.9
+virtual machine placement,74,2019.9
+cost minimization,72,2019.1
+tasks,72,2020.2
+adoption,72,2019.1
+services,71,2019.8
+mobile edge computing,71,2021.7
+performance evaluation,67,2019.4
+high performance computing,67,2018.2
+computer architecture,65,2023.5
+game theory,65,2018.9
+availability,65,2019.4
+time,64,2020.7
+real time systems,64,2023.9
+deadline,62,2020.4
+latency,61,2021.9
+resource scheduling,61,2020.5
+access control,61,2019.3
+network function virtualization,59,2020.5
+data models,59,2023.1
+monitoring,59,2020.3
+software,58,2018.7
+workflows,58,2018.9
+scientific workflow,58,2018.8
+smart grid,58,2018.5
+green computing,57,2017.5
+software as a service,57,2017.0
+cloudsim,57,2019.5
+sustainability,56,2021.8
+5g,55,2021.3
+distributed computing,55,2018.1
+energy efficient,55,2020.1
+authentication,55,2018.8
+data security,55,2019.5
+job scheduling,54,2020.5
+infrastructure as a service,53,2017.0
+multi tenancy,53,2017.3
+heuristics,52,2019.7
+models,52,2019.1
+computation offloading,51,2020.9
+bandwidth,51,2021.9
+vm placement,51,2018.6
+processor scheduling,51,2023.1
+anomaly detection,50,2021.6
+scheduling algorithm,50,2020.4
+industry 4.0,50,2022.4
+classification,50,2021.2
+technology,50,2019.8
+orchestration,49,2021.4
+cost model,49,2017.4
+neural network,49,2021.2
+data privacy,49,2019.1
+resource,48,2019.0
+hadoop,48,2016.7
+openstack,48,2017.5
+selection,48,2019.9
+software defined networking,47,2018.6
+clouds,47,2021.6
+mobile,46,2019.3
+nfv,45,2020.2
+taxonomy,45,2020.0
+sdn,45,2020.0
+infrastructure,45,2019.1
+modeling,45,2021.7
+mechanism,44,2020.0
+training,44,2023.9
+determinants,44,2020.4
+collaboration,44,2021.2
+vm migration,43,2019.1
+neural networks,43,2021.6
+toolkit,43,2019.5
+public cloud,42,2018.8
+quality,42,2019.7
+trust,42,2017.9
+efficiency,42,2019.6
+fog,41,2021.9
+power consumption,41,2019.0
+hpc,41,2018.6
+secure,41,2020.6
+live migration,40,2017.2
+impact,40,2020.6
+container,40,2021.5
+resource optimization,40,2022.2
+task offloading,40,2023.8
+environments,40,2019.1
+virtual machine migration,40,2019.2
+search,40,2019.2
+paas,39,2017.4
+data placement,39,2019.9
+throughput,39,2021.7
+deployment,39,2021.3
+data integrity,39,2021.1
+cost aware,38,2018.5
+scheduling algorithms,38,2020.3
+workload,37,2021.5
+dynamic consolidation,37,2018.4
+cryptography,37,2020.5
+issues,37,2018.6
+performance analysis,36,2018.9
+digital twin,36,2023.6
+green cloud computing,36,2018.2
+predictive models,35,2023.0
+uncertainty,35,2020.6

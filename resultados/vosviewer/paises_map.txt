@@ -1,0 +1,86 @@
+id	label	weight<Documents>
+1	China	2124
+2	USA	1928
+3	India	1777
+4	United Kingdom	566
+5	Australia	554
+6	Canada	506
+7	Germany	420
+8	Spain	354
+9	Italy	341
+10	South Korea	337
+11	Saudi Arabia	321
+12	France	312
+13	Iran	311
+14	Brazil	284
+15	Pakistan	242
+16	Greece	186
+17	Taiwan	181
+18	Malaysia	178
+19	Sweden	158
+20	Singapore	150
+21	Japan	135
+22	Egypt	127
+23	Austria	118
+24	United Arab Emirates	117
+25	Switzerland	108
+26	Netherlands	106
+27	Portugal	105
+28	Poland	99
+29	Ireland	87
+30	Turkey	85
+31	Tunisia	84
+32	Finland	76
+33	Jordan	74
+34	Romania	70
+35	Norway	62
+36	Morocco	62
+37	Belgium	58
+38	Qatar	57
+39	Hungary	57
+40	South Africa	55
+41	Bangladesh	54
+42	New Zealand	52
+43	Iraq	52
+44	Russia	48
+45	Algeria	46
+46	Israel	45
+47	Vietnam	44
+48	Thailand	42
+49	Mexico	38
+50	Nigeria	36
+51	Lebanon	33
+52	Denmark	31
+53	Luxembourg	27
+54	Oman	23
+55	Croatia	21
+56	Slovenia	20
+57	Serbia	19
+58	Colombia	19
+59	Ethiopia	19
+60	Sri Lanka	18
+61	Estonia	18
+62	Cyprus	17
+63	Ecuador	17
+64	Kuwait	17
+65	Czech Republic	17
+66	Ukraine	16
+67	Indonesia	13
+68	Slovakia	12
+69	Lithuania	11
+70	Argentina	11
+71	Yemen	10
+72	Kazakhstan	10
+73	Brunei	8
+74	Bahrain	8
+75	Chile	7
+76	Azerbaijan	6
+77	Tanzania	6
+78	Philippines	6
+79	Peru	6
+80	Sudan	6
+81	Ghana	6
+82	Bulgaria	6
+83	Macedonia	5
+84	Cameroon	5
+85	Malta	5

@@ -1,0 +1,285 @@
+ano,titulo,fonte,citacoes,doi,ut
+2011,CloudSim: a toolkit for modeling and simulation of cloud computing environments and evaluation of resource provisioning algorithms,SOFTWARE-PRACTICE & EXPERIENCE,3346,10.1002/spe.995,WOS:000285847800002
+2010,CloudAnalyst: A CloudSim-based Visual Modeller for Analysing Cloud Computing Environments and Applications,2010 24TH IEEE INTERNATIONAL CONFERENCE ON ADVANCED INFORMATION NETWORKING AND APPLICATIONS (AINA),277,10.1109/AINA.2010.32,WOS:000299433200062
+2019,A Manifesto for Future Generation Cloud Computing: Research Directions for the Next Decade,ACM COMPUTING SURVEYS,236,10.1145/3241737,WOS:000457121600018
+2011,HCOC: a cost optimization algorithm for workflow scheduling in hybrid clouds,JOURNAL OF INTERNET SERVICES AND APPLICATIONS,203,10.1007/s13174-011-0032-0,WOS:000214530700014
+2010,A Cloud Computing Solution for Patient's Data Collection in Health Care Institutions,"SECOND INTERNATIONAL CONFERENCE ON EHEALTH, TELEMEDICINE, AND SOCIAL MEDICINE: ETELEMED 2010, PROCEEDINGS",179,10.1109/eTELEMED.2010.19,WOS:000278144900017
+2015,Elasticity in cloud computing: a survey,ANNALS OF TELECOMMUNICATIONS,123,10.1007/s12243-014-0450-7,WOS:000358743100002
+2019,Integrated NFV/SDN Architectures: A Systematic Literature Review,ACM COMPUTING SURVEYS,121,10.1145/3172866,WOS:000460376100005
+2018,"HPC Cloud for Scientific and Business Applications: Taxonomy, Vision, and Research Challenges",ACM COMPUTING SURVEYS,116,10.1145/3150224,WOS:000434678100008
+2012,Scheduling in Hybrid Clouds,IEEE COMMUNICATIONS MAGAZINE,115,10.1109/MCOM.2012.6295710,WOS:000308660000006
+2012,Workflow Scheduling for SaaS/PaaS Cloud Providers Considering Two SLA Levels,2012 IEEE NETWORK OPERATIONS AND MANAGEMENT SYMPOSIUM (NOMS),82,,WOS:000309517000131
+2022,SDN-Based Service Mobility Management in MEC-Enabled 5G and Beyond Vehicular Networks,IEEE INTERNET OF THINGS JOURNAL,76,10.1109/JIOT.2022.3142157,WOS:000831217100047
+2013,Key information technology and management issues 2012-2013: an international study,JOURNAL OF INFORMATION TECHNOLOGY,69,10.1057/jit.2013.22,WOS:000327910800007
+2012,A Provenance-based Adaptive Scheduling Heuristic for Parallel Scientific Workflows in Clouds,JOURNAL OF GRID COMPUTING,67,10.1007/s10723-012-9227-2,WOS:000308554100009
+2018,Genetic-based algorithms applied to a workflow scheduling algorithm with security and deadline constraints in clouds,COMPUTERS & ELECTRICAL ENGINEERING,66,10.1016/j.compeleceng.2017.12.004,WOS:000440122300027
+2013,"EMUSIM: an integrated emulation and simulation environment for modeling, evaluation, and validation of performance of Cloud computing applications",SOFTWARE-PRACTICE & EXPERIENCE,60,10.1002/spe.2124,WOS:000317690100006
+2025,Mitigating power grid impact from proactive data center workload shifts: A coordinated scheduling strategy integrating synergistic traffic - data - power networks,APPLIED ENERGY,58,10.1016/j.apenergy.2024.124697,WOS:001342435100001
+2021,Learning software configuration spaces: A systematic literature review,JOURNAL OF SYSTEMS AND SOFTWARE,56,10.1016/j.jss.2021.111044,WOS:000697027700007
+2018,Fog-Based Crime-Assistance in Smart IoT Transportation System,IEEE ACCESS,50,10.1109/ACCESS.2018.2803439,WOS:000428150700001
+2018,A dynamic tradeoff data processing framework for delay-sensitive applications in Cloud of Things systems,JOURNAL OF PARALLEL AND DISTRIBUTED COMPUTING,48,10.1016/j.jpdc.2017.09.009,WOS:000417887300004
+2015,Influential IT management trends: an international study,JOURNAL OF INFORMATION TECHNOLOGY,46,10.1057/jit.2015.18,WOS:000360313200008
+2015,Eucalyptus-based private clouds: availability modeling and comparison to the cost of a public cloud,COMPUTING,45,10.1007/s00607-015-0447-8,WOS:000361488000004
+2012,Key information technology and management issues 2011-2012: an international study,JOURNAL OF INFORMATION TECHNOLOGY,44,10.1057/jit.2012.14,WOS:000308846500002
+2012,CASViD: Application Level Monitoring for SLA Violation Detection in Clouds,2012 IEEE 36TH ANNUAL COMPUTER SOFTWARE AND APPLICATIONS CONFERENCE (COMPSAC),41,10.1109/COMPSAC.2012.68,WOS:000312376000088
+2020,Simulating Resource Management across the Cloud-to-Thing Continuum: A Survey and Future Directions,FUTURE INTERNET,38,10.3390/fi12060095,WOS:000551238000010
+2016,Cost-effective Processing for Delay-sensitive Applications in Cloud of Things Systems,15TH IEEE INTERNATIONAL SYMPOSIUM ON NETWORK COMPUTING AND APPLICATIONS (IEEE NCA 2016),37,,WOS:000390674600030
+2023,Mobility and Deadline-Aware Task Scheduling Mechanism for Vehicular Edge Computing,IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS,36,10.1109/TITS.2023.3276823,WOS:001006785700001
+2016,Optimising resource costs of cloud computing for education,FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF ESCIENCE,35,10.1016/j.future.2015.03.013,WOS:000368652400039
+2013,Autoflex: Service Agnostic Auto-scaling Framework for IaaS Deployment Models,"PROCEEDINGS OF THE 2013 13TH IEEE/ACM INTERNATIONAL SYMPOSIUM ON CLUSTER, CLOUD AND GRID COMPUTING (CCGRID 2013)",34,10.1109/CCGrid.2013.74,WOS:000325006300007
+2023,Computational Resource Allocation in Fog Computing: A Comprehensive Survey,ACM COMPUTING SURVEYS,33,10.1145/3586181,WOS:001056316700037
+2021,An Algorithm to Minimize Energy Consumption and Elapsed Time for IoT Workloads in a Hybrid Architecture,SENSORS,31,10.3390/s21092914,WOS:000650796100001
+2015,A Modeling Approach for Cloud Infrastructure Planning Considering Dependability and Cost Requirements,IEEE TRANSACTIONS ON SYSTEMS MAN CYBERNETICS-SYSTEMS,30,10.1109/TSMC.2014.2358642,WOS:000351545900001
+2019,Estimation of the Available Bandwidth in Inter-Cloud Links for Task Scheduling in Hybrid Clouds,IEEE TRANSACTIONS ON CLOUD COMPUTING,30,10.1109/TCC.2015.2469650,WOS:000460668300006
+2018,Performance Prediction of Cloud-Based Big Data Applications,PROCEEDINGS OF THE 2018 ACM/SPEC INTERNATIONAL CONFERENCE ON PERFORMANCE ENGINEERING (ICPE '18),27,10.1145/3184407.3184420,WOS:000744416300023
+2019,A preliminary study of machine learning workload prediction techniques for cloud applications,"2019 27TH EUROMICRO INTERNATIONAL CONFERENCE ON PARALLEL, DISTRIBUTED AND NETWORK-BASED PROCESSING (PDP)",26,10.1109/EMPDP.2019.8671604,WOS:000467257000030
+2024,RIC-O: Efficient Placement of a Disaggregated and Distributed RAN Intelligent Controller With Dynamic Clustering of Radio Nodes,IEEE JOURNAL ON SELECTED AREAS IN COMMUNICATIONS,26,10.1109/JSAC.2023.3336159,WOS:001174086100009
+2025,A Framework for Leveraging Digital Technologies in Reverse Logistics Actions: A Systematic Literature Review,LOGISTICS-BASEL,25,10.3390/logistics9020054,WOS:001516786500001
+2025,Energy management in smart grids: An Edge-Cloud Continuum approach with Deep Q-learning,FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF ESCIENCE,25,10.1016/j.future.2024.107599,WOS:001368006200001
+2017,Analyzing the IT Subsystem Failure Impact on Availability of Cloud Services,2017 IEEE SYMPOSIUM ON COMPUTERS AND COMMUNICATIONS (ISCC),24,,WOS:000426895800118
+2016,Use of cloud computing in biomedicine,JOURNAL OF BIOMOLECULAR STRUCTURE & DYNAMICS,24,10.1080/07391102.2015.1127182,WOS:000386207100011
+2020,LW-CoEdge: a lightweight virtualization model and collaboration process for edge computing,WORLD WIDE WEB-INTERNET AND WEB INFORMATION SYSTEMS,22,10.1007/s11280-019-00722-9,WOS:000495048100001
+2015,A Petri net-based decision-making framework for assessing cloud services adoption: The use of spot instances for cost reduction,JOURNAL OF NETWORK AND COMPUTER APPLICATIONS,21,10.1016/j.jnca.2015.07.002,WOS:000365057600009
+2019,Statistical analysis of Amazon EC2 cloud pricing models,CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE,21,10.1002/cpe.4451,WOS:000482473100003
+2021,On revisiting energy and performance in microservices applications: A cloud elasticity-driven approach,PARALLEL COMPUTING,21,10.1016/j.parco.2021.102858,WOS:000734733800011
+2021,On the Future of Cloud Engineering,"2021 IEEE INTERNATIONAL CONFERENCE ON CLOUD ENGINEERING, IC2E 2021",20,10.1109/IC2E52221.2021.00044,WOS:000760304200031
+2015,Business-Driven Long-Term Capacity Planning for SaaS Applications,IEEE TRANSACTIONS ON CLOUD COMPUTING,20,10.1109/TCC.2015.2424877,WOS:000389839100005
+2019,Optimal Pricing for Serverless Computing,2019 IEEE GLOBAL COMMUNICATIONS CONFERENCE (GLOBECOM),19,10.1109/globecom38437.2019.9013156,WOS:000552238600048
+2020,A Platform to Enable Self-Adaptive Cloud Applications Using Trustworthiness Properties,"2020 IEEE/ACM 15TH INTERNATIONAL SYMPOSIUM ON SOFTWARE ENGINEERING FOR ADAPTIVE AND SELF-MANAGING SYSTEMS, SEAMS",19,10.1145/3387939.3391608,WOS:001017765500010
+2011,Active replication at (almost) no cost,2011 30TH IEEE INTERNATIONAL SYMPOSIUM ON RELIABLE DISTRIBUTED SYSTEMS (SRDS),19,10.1109/SRDS.2011.12,WOS:000298004600003
+2021,A Systematic Literature Review on Virtual Machine Consolidation,ACM COMPUTING SURVEYS,19,10.1145/3470972,WOS:000705073600020
+2020,Data Processing Model to Perform Big Data Analytics in Hybrid Infrastructures,IEEE ACCESS,18,10.1109/ACCESS.2020.3023344,WOS:000573784400001
+2018,A Cost Model for IaaS Clouds Based on Virtual Machine Energy Consumption,JOURNAL OF GRID COMPUTING,17,10.1007/s10723-018-9440-8,WOS:000441870400007
+2013,Using Time Discretization to Schedule Scientific Workflows in Multiple Cloud Providers,2013 IEEE SIXTH INTERNATIONAL CONFERENCE ON CLOUD COMPUTING (CLOUD 2013),17,10.1109/CLOUD.2013.141,WOS:000332488800016
+2021,Predicting the performance of big data applications on the cloud,JOURNAL OF SUPERCOMPUTING,17,10.1007/s11227-020-03307-w,WOS:000533046500001
+2019,Multiagent system for dynamic resource provisioning in cloud computing platforms,FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF ESCIENCE,17,10.1016/j.future.2018.09.050,WOS:000460845200009
+2021,QoE-Aware Container Scheduler for Co-located Cloud Environments,2021 IFIP/IEEE INTERNATIONAL SYMPOSIUM ON INTEGRATED NETWORK MANAGEMENT (IM 2021),17,,WOS:000696801700033
+2019,An Artificial Neural Network Approach to Forecast the Environmental Impact of Data Centers,INFORMATION,16,10.3390/info10030113,WOS:000464294700001
+2025,Efficient virtual machine placement in cloud computing environment using BSO-ANN based hybrid technique,ALEXANDRIA ENGINEERING JOURNAL,16,10.1016/j.aej.2024.09.103,WOS:001332112100001
+2024,RAaaS: Resource Allocation as a Service in multiple cloud providers,JOURNAL OF NETWORK AND COMPUTER APPLICATIONS,16,10.1016/j.jnca.2023.103790,WOS:001164796400001
+2023,Software Aging Effects on Kubernetes in Container Orchestration Systems for Digital Twin Cloud Infrastructures of Urban Air Mobility,DRONES,16,10.3390/drones7010035,WOS:000917006000001
+2018,A lightweight plug-and-play elasticity service for self-organizing resource provisioning on parallel applications,FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF ESCIENCE,16,10.1016/j.future.2017.02.023,WOS:000413127800014
+2015,On the Use of Resource Reservation for Web Services Load Balancing,JOURNAL OF NETWORK AND SYSTEMS MANAGEMENT,15,10.1007/s10922-014-9303-y,WOS:000356295800005
+2019,Performability Evaluation of a Cloud-Based Disaster Recovery Solution for IT Environments,JOURNAL OF GRID COMPUTING,14,10.1007/s10723-018-9446-2,WOS:000487125900010
+2012,"High Performance Computing in the Cloud: Deployment, Performance and Cost Efficiency",2012 IEEE 4TH INTERNATIONAL CONFERENCE ON CLOUD COMPUTING TECHNOLOGY AND SCIENCE (CLOUDCOM),13,,WOS:000320473500049
+2018,Regression based performance modeling and provisioning for NoSQL cloud databases,FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF ESCIENCE,13,10.1016/j.future.2017.08.061,WOS:000418968400006
+2018,Performance prediction for supporting mobile applications' offloading,JOURNAL OF SUPERCOMPUTING,13,10.1007/s11227-018-2414-6,WOS:000441875100032
+2015,A programming-level approach for elasticizing parallel scientific applications,JOURNAL OF SYSTEMS AND SOFTWARE,13,10.1016/j.jss.2015.08.051,WOS:000364244600014
+2020,Time-discretization for speeding-up scheduling of deadline-constrained workflows in clouds,FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF ESCIENCE,12,10.1016/j.future.2017.07.061,WOS:000527331800089
+2023,Scheduling Bag-of-Tasks in Clouds Using Spot and Burstable Virtual Machines,IEEE TRANSACTIONS ON CLOUD COMPUTING,12,10.1109/TCC.2021.3125426,WOS:000965169100001
+2014,Redundant VoD Streaming Service in a Private Cloud: Availability Modeling and Sensitivity Analysis,MATHEMATICAL PROBLEMS IN ENGINEERING,12,10.1155/2014/764010,WOS:000344670700001
+2017,Improving the Network Performance of a Container-based Cloud Environment for Hadoop Systems,2017 INTERNATIONAL CONFERENCE ON HIGH PERFORMANCE COMPUTING & SIMULATION (HPCS),12,10.1109/HPCS.2017.97,WOS:000425930800084
+2021,A dynamic task scheduler tolerant to multiple hibernations in cloud environments,CLUSTER COMPUTING-THE JOURNAL OF NETWORKS SOFTWARE TOOLS AND APPLICATIONS,11,10.1007/s10586-020-03175-2,WOS:000565845500001
+2017,HPC Application Performance and Cost Efficiency in the Cloud,"2017 25TH EUROMICRO INTERNATIONAL CONFERENCE ON PARALLEL, DISTRIBUTED AND NETWORK-BASED PROCESSING (PDP 2017)",11,10.1109/PDP.2017.59,WOS:000403395100071
+2015,Optimizing Query Prices for Data-as-a-Service,2015 IEEE INTERNATIONAL CONGRESS ON BIG DATA - BIGDATA CONGRESS 2015,11,10.1109/BigDataCongress.2015.48,WOS:000380443700038
+2015,Consolidation of VMs to improve energy efficiency in cloud computing environments,2015 XXXIII BRAZILIAN SYMPOSIUM ON COMPUTER NETWORKS AND DISTRIBUTED SYSTEMS,11,10.1109/SBRC.2015.27,WOS:000380480400016
+2020,A Recommender for Resource Allocation in Compute Clouds Using Genetic Algorithms and SVR,IEEE LATIN AMERICA TRANSACTIONS,10,10.1109/TLA.2020.9099682,WOS:000538160500009
+2021,Autonomics at the Edge: Resource Orchestration for Edge Native Applications,IEEE INTERNET COMPUTING,10,10.1109/MIC.2020.3039551,WOS:000685887300011
+2020,Provenance-based fault tolerance technique recommendation for cloud-based scientific workflows: a practical approach,CLUSTER COMPUTING-THE JOURNAL OF NETWORKS SOFTWARE TOOLS AND APPLICATIONS,10,10.1007/s10586-019-02920-6,WOS:000512937700009
+2016,Machine Learning Approach for Cloud NoSQL Databases Performance Modeling,"2016 16TH IEEE/ACM INTERNATIONAL SYMPOSIUM ON CLUSTER, CLOUD AND GRID COMPUTING (CCGRID)",10,10.1109/CCGrid.2016.83,WOS:000382529800084
+2021,"Digital transformation of bridges inspection, monitoring and maintenance processes","BRIDGE MAINTENANCE, SAFETY, MANAGEMENT, LIFE-CYCLE SUSTAINABILITY AND INNOVATIONS",10,10.1201/9780429279119-2,WOS:000844440300002
+2016,CM Cloud Simulator: A Cost Model Simulator Module for Cloudsim,PROCEEDINGS 2016 IEEE WORLD CONGRESS ON SERVICES - SERVICES 2016,9,10.1109/SERVICES.2016.20,WOS:000389457600019
+2019,A Bag-of-Tasks Scheduler Tolerant to Temporal Failures in Clouds,2019 31ST INTERNATIONAL SYMPOSIUM ON COMPUTER ARCHITECTURE AND HIGH PERFORMANCE COMPUTING (SBAC-PAD 2019),9,10.1109/SBAC-PAD.2019.00033,WOS:000521762000020
+2022,Strategies for Fault-Tolerant Tightly-Coupled HPC Workloads Running on Low-Budget Spot Cloud Infrastructures,2022 IEEE 34TH INTERNATIONAL SYMPOSIUM ON COMPUTER ARCHITECTURE AND HIGH PERFORMANCE COMPUTING (SBAC-PAD 2022),9,10.1109/SBAC-PAD55451.2022.00037,WOS:000905612800027
+2024,5G and edge: A reinforcement learning approach for Virtual Network Embedding with cost optimization and improved acceptance rate,COMPUTER NETWORKS,9,10.1016/j.comnet.2024.110434,WOS:001300453600001
+2019,SDN-based and multitenant-aware resource provisioning mechanism for cloud-based big data streaming,JOURNAL OF NETWORK AND COMPUTER APPLICATIONS,9,10.1016/j.jnca.2018.11.005,WOS:000456764900010
+2019,Exploring the Cost-benefit of AWS EC2 GPU Instances for Deep Learning Applications,"PROCEEDINGS OF THE 12TH IEEE/ACM INTERNATIONAL CONFERENCE ON UTILITY AND CLOUD COMPUTING, UCC 2019",9,10.1145/3344341.3368814,WOS:001507489300003
+2019,On the Design and Implementation of an IoT based Architecture for Reading Ultra High Frequency Tags,INFORMATION,9,10.3390/info10020041,WOS:000460794200008
+2015,A Multi-Criteria Approach for Assessing Cloud Deployment Options Based on Non-Functional Requirements,"30TH ANNUAL ACM SYMPOSIUM ON APPLIED COMPUTING, VOLS I AND II",8,10.1145/2695664.2695923,WOS:000381029800219
+2025,KTWIN: A serverless Kubernetes-based Digital Twin platform,COMPUTER NETWORKS,8,10.1016/j.comnet.2025.111095,WOS:001426656500001
+2019,Performance and Resource Consumption Analysis of Elastic Systems on Public Clouds,"2019 IEEE INTERNATIONAL CONFERENCE ON SYSTEMS, MAN AND CYBERNETICS (SMC)",8,,WOS:000521353902023
+2021,Low overhead performance monitoring for shared infrastructures,EXPERT SYSTEMS WITH APPLICATIONS,8,10.1016/j.eswa.2020.114558,WOS:000634864300008
+2024,Enabling the execution of HPC applications on public clouds with HPC@Cloud toolkit,CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE,8,10.1002/cpe.7976,WOS:001113577800001
+2024,MAS-Cloud plus : A novel multi-agent architecture with reasoning models for resource management in multiple providers,FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF ESCIENCE,8,10.1016/j.future.2023.12.022,WOS:001152618400001
+2014,Reducing Costs in Cloud Application Execution Using Redundancy-based Scheduling,2014 IEEE/ACM 7TH INTERNATIONAL CONFERENCE ON UTILITY AND CLOUD COMPUTING (UCC),8,,WOS:000380558700013
+2019,MaReIA: a cloud MapReduce based high performance whole slide image analysis framework,DISTRIBUTED AND PARALLEL DATABASES,8,10.1007/s10619-018-7237-1,WOS:000468234800003
+2024,Aerial computing: Enhancing mobile cloud computing with unmanned aerial vehicles as data bridges-A Markov chain based dependability quantification,ICT EXPRESS,8,10.1016/j.icte.2023.10.002,WOS:001298356100001
+2017,Multi-dimensional admission control and capacity planning for IaaS clouds with multiple service classes,"2017 17TH IEEE/ACM INTERNATIONAL SYMPOSIUM ON CLUSTER, CLOUD AND GRID COMPUTING (CCGRID)",8,10.1109/CCGRID.2017.14,WOS:000426912900017
+2018,Dynamic Resource Provisioning for Scientific Workflow Executions in Clouds,2018 IEEE INTERNATIONAL CONFERENCE ON SERVICES COMPUTING (IEEE SCC 2018),8,10.1109/SCC.2018.00051,WOS:000501731200044
+2015,Towards Efficient Automatic Scaling and Adaptive cost-optimized eHealth Services in Cloud,2015 IEEE GLOBAL COMMUNICATIONS CONFERENCE (GLOBECOM),7,10.1109/GLOCOM.2015.7417751,WOS:000382389305005
+2021,REACT: A solidarity-based elastic service resource reallocation strategy for Multi-access Edge Computing,PHYSICAL COMMUNICATION,7,10.1016/j.phycom.2021.101380,WOS:000672688700017
+2016,A Flexible Scheduler for Workflow Ensembles,2016 IEEE/ACM 9TH INTERNATIONAL CONFERENCE ON UTILITY AND CLOUD COMPUTING (UCC),7,10.1145/2996890.2996910,WOS:000405576700008
+2017,Leveraging Cloud Heterogeneity for Cost-Efficient Execution of Parallel Applications,EURO-PAR 2017: PARALLEL PROCESSING,7,10.1007/978-3-319-64203-1_29,WOS:000851032800029
+2015,A Scheduling Strategy Based on Redundancy of Service Requests on IaaS Providers,"23RD EUROMICRO INTERNATIONAL CONFERENCE ON PARALLEL, DISTRIBUTED, AND NETWORK-BASED PROCESSING (PDP 2015)",7,10.1109/PDP.2015.80,WOS:000380471500075
+2021,Optimizing security and cost of workflow execution using task annotation and genetic-based algorithm,COMPUTING,7,10.1007/s00607-021-00943-9,WOS:000635141700002
+2021,Towards Sustainability using an Edge-Fog-Cloud Architecture for Demand-Side Management,"2021 IEEE INTERNATIONAL CONFERENCE ON SYSTEMS, MAN, AND CYBERNETICS (SMC)",7,10.1109/SMC52423.2021.9658962,WOS:000800532001110
+2021,High-performance IO for seismic processing on the cloud,CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE,7,10.1002/cpe.6250,WOS:000622283700001
+2016,Cloud Computing at the Edges,"CLOUD COMPUTING AND SERVICES SCIENCE, CLOSER 2015",7,10.1007/978-3-319-29582-4_1,WOS:000371383500001
+2019,Optimizing multi-tier application performance with interference and affinity-aware placement algorithms,CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE,7,10.1002/cpe.5098,WOS:000482473100005
+2026,"Smart parking with pixel-wise ROI selection for vehicle detection using YOLOv8, YOLOv9, YOLOv10, and YOLOv11",INTERNET OF THINGS,7,10.1016/j.iot.2025.101858,WOS:001652264600001
+2013,Elasticity in cloud computing: State of the art and new challenges,REVISTA BRASILEIRA DE COMPUTACAO APLICADA,7,10.5335/rbca.2013.3084,WOS:000215668400002
+2018,Scheduling Scientific Workflows on Clouds Using a Task Duplication Approach,2018 IEEE/ACM 11TH INTERNATIONAL CONFERENCE ON UTILITY AND CLOUD COMPUTING (UCC),7,10.1109/UCC.2018.00017,WOS:000458731400009
+2017,A design towards personally identifiable information control and awareness in OpenID Connect identity providers,2017 IEEE INTERNATIONAL CONFERENCE ON COMPUTER AND INFORMATION TECHNOLOGY (CIT),7,10.1109/CIT.2017.30,WOS:000426119400006
+2021,Comparing SARS-CoV-2 Sequences using a Commercial Cloud with a Spot Instance Based Dynamic Scheduler,"21ST IEEE/ACM INTERNATIONAL SYMPOSIUM ON CLUSTER, CLOUD AND INTERNET COMPUTING (CCGRID 2021)",6,10.1109/CCGrid51090.2021.00034,WOS:000703983200025
+2020,An algorithm to optimise the energy distribution of data centre electrical infrastructures,INTERNATIONAL JOURNAL OF GRID AND UTILITY COMPUTING,6,,WOS:000557523600011
+2013,An Algorithm to Optimize Electrical Flows,"2013 IEEE INTERNATIONAL CONFERENCE ON SYSTEMS, MAN, AND CYBERNETICS (SMC 2013)",6,10.1109/SMC.2013.26,WOS:000332201900019
+2018,PLDADAn Algorihm to Reduce Data Center Energy Consumption,ENERGIES,6,10.3390/en11102821,WOS:000449293500329
+2021,Screening hardware and volume factors in distributed machine learning algorithms on spark A design of experiments (DoE) based approach,COMPUTING,6,10.1007/s00607-021-00965-3,WOS:000661783100001
+2024,An automated decision-making system employing complex networks and blockchain for the decentralized stock market,EXPERT SYSTEMS WITH APPLICATIONS,6,10.1016/j.eswa.2024.125131,WOS:001299276800001
+2024,Evaluating the Deployment of a Disaggregated Open RAN Controller on a Distributed Cloud Infrastructure,IEEE TRANSACTIONS ON NETWORK AND SERVICE MANAGEMENT,6,10.1109/TNSM.2024.3386902,WOS:001297653700071
+2017,"Mobile application testing on Clouds: challenges, opportunities and architectural elements","2017 25TH EUROMICRO INTERNATIONAL CONFERENCE ON PARALLEL, DISTRIBUTED AND NETWORK-BASED PROCESSING (PDP 2017)",6,10.1109/PDP.2017.96,WOS:000403395100023
+2019,Assessing mobile applications performance and energy consumption through experiments and Stochastic models,COMPUTING,6,10.1007/s00607-019-00707-6,WOS:000491601200002
+2021,Distributed User-centric Service Migration for Edge-Enabled Networks,2021 IFIP/IEEE INTERNATIONAL SYMPOSIUM ON INTEGRATED NETWORK MANAGEMENT (IM 2021),5,,WOS:000696801700078
+2018,Multi-objective optimization for workflow scheduling under task selection policies in clouds,2018 IEEE CONGRESS ON EVOLUTIONARY COMPUTATION (CEC),5,10.1109/CEC.2018.8477799,WOS:000451175500199
+2024,Evaluating machine learning prediction techniques and their impact on proactive resource provisioning for cloud environments,JOURNAL OF SUPERCOMPUTING,5,10.1007/s11227-024-06303-6,WOS:001249542200001
+2014,Low Cost Energy Forecasting for SmartGrids using StreamMine3G and Amazon EC2,2014 IEEE/ACM 7TH INTERNATIONAL CONFERENCE ON UTILITY AND CLOUD COMPUTING (UCC),5,,WOS:000380558700071
+2022,An Efficient and Decentralized Fuzzy Reinforcement Learning Bandwidth Controller for Multitenant Data Centers,JOURNAL OF NETWORK AND SYSTEMS MANAGEMENT,5,10.1007/s10922-022-09667-3,WOS:000820256100003
+2015,Towards Cloud-based Asynchronous Elasticity for Iterative HPC Applications,XV BRAZILIAN SYMPOSIUM ON HIGH PERFORMANCE COMPUTATIONAL SYSTEMS (WSCAD 2014),5,10.1088/1742-6596/649/1/012006,WOS:000364560100007
+2021,Exploiting HLS-Generated Multi-Version Kernels to Improve CPU-FPGA Cloud Systems,2021 26TH ASIA AND SOUTH PACIFIC DESIGN AUTOMATION CONFERENCE (ASP-DAC),5,10.1145/3394885.3431557,WOS:000668583700095
+2018,Sensitivity analysis of an availability model for disaster tolerant cloud computing system,INTERNATIONAL JOURNAL OF NETWORK MANAGEMENT,5,10.1002/nem.2040,WOS:000449676600001
+2012,A Methodology for Management of Cloud Computing using Security Criteria,2012 IEEE LATIN AMERICA CONFERENCE ON CLOUD COMPUTING AND COMMUNICATIONS (LATINCLOUD),5,,WOS:000321039000009
+2016,A Platform as a Service Billing Model for Cloud Computing Management Approaches,IEEE LATIN AMERICA TRANSACTIONS,5,10.1109/TLA.2016.7430089,WOS:000372644300035
+2015,Improving business by migrating applications to the cloud using cloudstep,2015 IEEE 29TH INTERNATIONAL CONFERENCE ON ADVANCED INFORMATION NETWORKING AND APPLICATIONS WORKSHOPS WAINA 2015,5,10.1109/WAINA.2015.32,WOS:000380464800015
+2011,Sustainability and Dependability Evaluation on Data Center Architectures,"2011 IEEE INTERNATIONAL CONFERENCE ON SYSTEMS, MAN, AND CYBERNETICS (SMC)",4,,WOS:000298615100067
+2018,A proposal of Infrastructure-as-a-Service providers pricing model using linear regression,REVISTA BRASILEIRA DE COMPUTACAO APLICADA,4,10.5335/rbca.v10i2.7839,WOS:000438995200005
+2019,Exploring Instance Heterogeneity in Public Cloud Providers for HPC Applications,CLOSER: PROCEEDINGS OF THE 9TH INTERNATIONAL CONFERENCE ON CLOUD COMPUTING AND SERVICES SCIENCE,4,10.5220/0007799302100222,WOS:000571051500019
+2016,Managing sensitive applications in the public cloud,IBM JOURNAL OF RESEARCH AND DEVELOPMENT,4,10.1147/JRD.2015.2513720,WOS:000376169600005
+2016,Modeling Availability Impact in Cloud Computing,PRINCIPLES OF PERFORMANCE AND RELIABILITY MODELING AND EVALUATION: ESSAYS IN HONOR OF KISHOR TRIVEDI ON HIS 70TH BIRTHDAY,4,10.1007/978-3-319-30599-8_11,WOS:000386786000012
+2010,Re-architected Cloud Data Center Networks and Their Impact on the Future Internet,NEW NETWORK ARCHITECTURES: THE PATH TO THE FUTURE INTERNET,4,,WOS:000280069400010
+2019,Performance and Cost Analysis between Elasticity Strategies over Pipeline-structured Applications,CLOSER: PROCEEDINGS OF THE 9TH INTERNATIONAL CONFERENCE ON CLOUD COMPUTING AND SERVICES SCIENCE,4,10.5220/0007729004040411,WOS:000571051500043
+2018,A New Intelligent System Architecture for Energy Saving in Smart Homes,2018 13TH IEEE INTERNATIONAL CONFERENCE ON INDUSTRY APPLICATIONS (INDUSCON),4,,WOS:000459239200162
+2023,Optimizing computational costs of Spark for SARS-CoV-2 sequences comparisons on a commercial cloud,CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE,3,10.1002/cpe.7678,WOS:000940872700001
+2014,MSSF: A step towards user-friendly multi-cloud data dispersal,2014 IEEE 7TH INTERNATIONAL CONFERENCE ON CLOUD COMPUTING (CLOUD),3,10.1109/CLOUD.2014.138,WOS:000392940500128
+2019,DistributedFaaS: Execution of Containerized Serverless Applications in Multi-Cloud Infrastructures,CLOSER: PROCEEDINGS OF THE 9TH INTERNATIONAL CONFERENCE ON CLOUD COMPUTING AND SERVICES SCIENCE,3,10.5220/0007877005950600,WOS:000571051500066
+2021,Automation of Photonic Networks Using Machine Learning: Case Studies and Future Works,IEEE PHOTONICS TECHNOLOGY LETTERS,3,10.1109/LPT.2021.3117482,WOS:000709067300002
+2025,Investigating cloud instances to achieve optimal trade-offs between performance-cost efficiency,COMPUTING,3,10.1007/s00607-025-01444-9,WOS:001434453800001
+2017,Exploiting Price and Performance Tradeoffs in Heterogeneous Clouds,COMPANION PROCEEDINGS OF THE 10TH INTERNATIONAL CONFERENCE ON UTILITY AND CLOUD COMPUTING (UCC'17 COMPANION),3,10.1145/3147234.3148103,WOS:000570497300012
+2020,Performance and Cost-aware HPC in Clouds: A Network Interconnection Assessment,2020 IEEE SYMPOSIUM ON COMPUTERS AND COMMUNICATIONS (ISCC),3,10.1109/iscc50000.2020.9219554,WOS:000652570900072
+2017,Cost Optimization on Public Cloud Provider for Big Geospatial Data: A Case Study using Open Street Map,CLOSER: PROCEEDINGS OF THE 7TH INTERNATIONAL CONFERENCE ON CLOUD COMPUTING AND SERVICES SCIENCE,3,10.5220/0006237800820090,WOS:000465221900004
+2018,Tasks Selection Policies for Securing Sensitive Data on Workflow Scheduling in Clouds,2018 IEEE INTERNATIONAL CONFERENCE ON SERVICES COMPUTING (IEEE SCC 2018),3,10.1109/SCC.2018.00037,WOS:000501731200030
+2021,Neural Architecture Search for Resource-Constrained Internet of Things Devices,26TH IEEE SYMPOSIUM ON COMPUTERS AND COMMUNICATIONS (IEEE ISCC 2021),3,10.1109/ISCC53001.2021.9631535,WOS:000936276000161
+2012,Impact of pay-as-you-go Cloud Platforms on Software Pricing and Development: A Review and Case Study,"COMPUTATIONAL SCIENCE AND ITS APPLICATIONS - ICCSA 2012, PT IV",3,,WOS:000308289700030
+2012,E-Learning Solutions for Cloud Environments,2012 IEEE LATIN AMERICA CONFERENCE ON CLOUD COMPUTING AND COMMUNICATIONS (LATINCLOUD),3,,WOS:000321039000010
+2023,Towards Optimizing the Edge-to-Cloud Continuum Resource Allocation,"PROCEEDINGS OF THE 13TH INTERNATIONAL CONFERENCE ON CLOUD COMPUTING AND SERVICES SCIENCE, CLOSER 2023",3,10.5220/0011995700003488,WOS:001118989400009
+2020,Analyzing the impact of power subsystem failures and checkpoint mechanisms on availability of cloud applications,IEEE LATIN AMERICA TRANSACTIONS,3,10.1109/TLA.2020.9049471,WOS:000524265800017
+2019,A Feasible Community Cloud Architecture for Provisioning Infrastructure as a Service in the Government Sector,PROCEEDINGS OF THE 20TH ANNUAL INTERNATIONAL CONFERENCE ON DIGITAL GOVERNMENT RESEARCH (DGO2019): GOVERNANCE IN THE AGE OF ARTIFICIAL INTELLIGENCE,3,10.1145/3325112.3325229,WOS:000555903400005
+2025,FarmSync: Ecosystem for Environmental Monitoring of Barns in Agribusiness,AGRIENGINEERING,3,10.3390/agriengineering7040124,WOS:001474702800001
+2012,Analysis of Overhead and Profitability in Nested Cloud Environments,2012 IEEE LATIN AMERICA CONFERENCE ON CLOUD COMPUTING AND COMMUNICATIONS (LATINCLOUD),3,,WOS:000321039000003
+2025,Service Selection under Uncertainty,COMPUTERS & OPERATIONS RESEARCH,3,10.1016/j.cor.2024.106847,WOS:001315812300001
+2019,A cloud computing price model based on virtual machine performance degradation,INTERNATIONAL JOURNAL OF COMPUTATIONAL SCIENCE AND ENGINEERING,3,10.1504/IJCSE.2019.099082,WOS:000465007400013
+2026,The rise of digital twin: a new era for reservoir simulation and modeling,JOURNAL OF PETROLEUM EXPLORATION AND PRODUCTION TECHNOLOGY,3,10.1007/s13202-026-02164-2,WOS:001812851600001
+2021,Faster and cheaper: How graphics processing units on spot-market instances minimize turnaround time and budget,INTERPRETATION-A JOURNAL OF SUBSURFACE CHARACTERIZATION,3,10.1190/INT-2020-0094.1,WOS:000626714500004
+2018,Adoption of Cloud Computing: A Study with Public and Private Hospitals in a Developing Country,INTERNATIONAL JOURNAL OF INNOVATION AND TECHNOLOGY MANAGEMENT,3,10.1142/S021987701850044X,WOS:000445643400005
+2022,QDA-System: A Cloud-Based System for Monitoring Water Quality in Brazilian Hydroelectric Reservoirs from Space,REMOTE SENSING,3,10.3390/rs14071541,WOS:000781590000001
+2017,EAVIRA: Energy-Aware Virtual Infrastructure Reallocation Algorithm,2017 VII BRAZILIAN SYMPOSIUM ON COMPUTING SYSTEMS ENGINEERING (SBESC),2,10.1109/SBESC.2017.12,WOS:000427435500006
+2026,Improving power consumption in IoT devices through neural network-based decision making,INTERNET OF THINGS,2,10.1016/j.iot.2025.101827,WOS:001627477400001
+2018,Cloud application architecture appraiser (CA3): A multicriteria approach and tool for assessing cloud deployment options based on nonfunctional requirements,SOFTWARE-PRACTICE & EXPERIENCE,2,10.1002/spe.2644,WOS:000449824700008
+2024,A Framework for Executing Long Simulation Jobs Cheaply in the Cloud,"2024 IEEE INTERNATIONAL CONFERENCE ON CLOUD ENGINEERING, IC2E",2,10.1109/IC2E61754.2024.00033,WOS:001438027700026
+2017,A Cost-Efficient Method for Big Geospatial Data on Public Cloud Providers,"NINTH INTERNATIONAL CONFERENCE ON ADVANCED GEOGRAPHIC INFORMATION SYSTEMS, APPLICATIONS, AND SERVICES (GEOPROCESSING 2017)",2,,WOS:000431841700006
+2018,Exploiting Load Imbalance Patterns for Heterogeneous Cloud Computing Platforms,CLOSER: PROCEEDINGS OF THE 8TH INTERNATIONAL CONFERENCE ON CLOUD COMPUTING AND SERVICES SCIENCE,2,10.5220/0006807502480259,WOS:000838648000021
+2019,A dependability and cost optimisation method for private cloud infrastructures,INTERNATIONAL JOURNAL OF WEB AND GRID SERVICES,2,10.1504/IJWGS.2019.103222,WOS:000511891800004
+2025,Planning Energy-Efficient Smart Industrial Spaces for Industry 4.0,ENG,2,10.3390/eng6030053,WOS:001453790600001
+2017,Teaching Software Development for the Cloud: An Experience Report,XXXI BRAZILIAN SYMPOSIUM ON SOFTWARE ENGINEERING (SBES 2017),2,10.1145/3131151.3131184,WOS:000426485300037
+2015,Modeling the use of spot instances for cost reduction in cloud computing adoption using a Petri net framework,PROCEEDINGS OF THE 2015 IFIP/IEEE INTERNATIONAL SYMPOSIUM ON INTEGRATED NETWORK MANAGEMENT (IM),2,,WOS:000380495900237
+2012,A Highly-Virtualising Cloud Resource Broker,2012 IEEE/ACM FIFTH INTERNATIONAL CONFERENCE ON UTILITY AND CLOUD COMPUTING (UCC 2012),2,10.1109/UCC.2012.14,WOS:000317385100032
+2015,Challenges and Solutions in Executing Numerical Weather Prediction in a Cloud Infrastructure,"INTERNATIONAL CONFERENCE ON COMPUTATIONAL SCIENCE, ICCS 2015 COMPUTATIONAL SCIENCE AT THE GATES OF NATURE",2,10.1016/j.procs.2015.05.443,WOS:000373939100301
+2016,Workload Regression-based Resource Provisioning for Small Cloud Providers,2016 IEEE SYMPOSIUM ON COMPUTERS AND COMMUNICATION (ISCC),2,,WOS:000386979000054
+2018,Optimized Service Level Agreement Establishment in Cloud Computing,COMPUTER JOURNAL,2,10.1093/comjnl/bxx087,WOS:000453391400001
+2014,An Experimental Tool for Elasticity Management Through Prediction Mechanisms,2014 IEEE/ACM 7TH INTERNATIONAL CONFERENCE ON UTILITY AND CLOUD COMPUTING (UCC),2,,WOS:000380558700069
+2017,Brokel: Towards enabling multi-level cloud elasticity on publish/subscribe brokers,INTERNATIONAL JOURNAL OF DISTRIBUTED SENSOR NETWORKS,2,10.1177/1550147717728863,WOS:000408849300001
+2021,FAIR: Fully-Adaptive Framework for Improving Resource Provisioning in Collaborative CPU-FPGA Cloud Environments,2021 IEEE 33RD INTERNATIONAL SYMPOSIUM ON COMPUTER ARCHITECTURE AND HIGH PERFORMANCE COMPUTING (SBAC-PAD 2021),2,10.1109/SBAC-PAD53543.2021.00026,WOS:000749322300015
+2018,"Evaluating, Estimating, and Improving Network Performance in Container-based Clouds",2018 IEEE SYMPOSIUM ON COMPUTERS AND COMMUNICATIONS (ISCC),2,,WOS:000516781500089
+2019,Information Management and Digital Transformations: Uses and Impacts of Technologies,QUALITATIVE & QUANTITATIVE METHODS IN LIBRARIES,2,,WOS:000649113600001
+2016,Instance Type Selection in Proactive Horizontal Auto-Scaling,2016 8TH IEEE INTERNATIONAL CONFERENCE ON CLOUD COMPUTING TECHNOLOGY AND SCIENCE (CLOUDCOM 2016),1,10.1109/CloudCom.2016.28,WOS:000398536300015
+2025,Univariate vs multivariate prediction for containerised applications auto-scaling: a comparative study,40TH ANNUAL ACM SYMPOSIUM ON APPLIED COMPUTING,1,10.1145/3672608.3707770,WOS:001497934400152
+2012,Towards practical auto scaling of user facing applications,2012 IEEE LATIN AMERICA CONFERENCE ON CLOUD COMPUTING AND COMMUNICATIONS (LATINCLOUD),1,,WOS:000321039000011
+2022,Energy-based cost model of containers provisioning on clouds,INTERNATIONAL JOURNAL OF GRID AND UTILITY COMPUTING,1,10.1504/IJGUC.2022.128307,WOS:000919347300003
+2026,Performance and Cost Evaluation of StarPU on AWS: Case Studies With Dense Linear Algebra Kernels and N-Body Simulations,CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE,1,10.1002/cpe.70582,WOS:001685185600006
+2025,Exploring cloud instance options for optimal performance-cost efficiency,CLUSTER COMPUTING-THE JOURNAL OF NETWORKS SOFTWARE TOOLS AND APPLICATIONS,1,10.1007/s10586-025-05702-5,WOS:001591627900038
+2022,Efficient Pareto Optimality-based Task Scheduling for Vehicular Edge Computing,2022 IEEE 96TH VEHICULAR TECHNOLOGY CONFERENCE (VTC2022-FALL),1,10.1109/VTC2022-Fall57202.2022.10013029,WOS:000927580600333
+2025,Cloud infrastructure planning considering the impact of maintenance and self-healing routines over cost and dependability attributes,INTERNATIONAL JOURNAL OF GRID AND UTILITY COMPUTING,1,10.1504/IJGUC.2025.10071029,WOS:001489607300001
+2023,Improving Fairness and Performance in Resource Usage for Vehicular Edge Computing,"2023 IEEE 98TH VEHICULAR TECHNOLOGY CONFERENCE, VTC2023-FALL",1,10.1109/VTC2023-Fall60731.2023.10333418,WOS:001133762500065
+2024,Design and analyses of web scraping on burstable virtual machines,CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE,1,10.1002/cpe.7999,WOS:001131739400001
+2020,Developing Checkpointing and Recovery Procedures with the Storage Services of Amazon Web Services,"49TH INTERNATIONAL CONFERENCE ON PARALLEL PROCESSING WORKSHOP PROCEEDINGS, ICPP 2020",1,10.1145/3409390.3409407,WOS:001062727700017
+2017,Cloud Storage Cost Modeling for Cryptographic File Systems,"2017 25TH EUROMICRO INTERNATIONAL CONFERENCE ON PARALLEL, DISTRIBUTED AND NETWORK-BASED PROCESSING (PDP 2017)",1,10.1109/PDP.2017.36,WOS:000403395100002
+2014,Performance and Cost Modeling Strategy for Cloud Infrastructure Planning,2014 IEEE 7TH INTERNATIONAL CONFERENCE ON CLOUD COMPUTING (CLOUD),1,10.1109/CLOUD.2014.79,WOS:000392940500069
+2016,Optimizing Multi-tenant Cloud Resource Pools via Allocation of Reusable Time Slots,"ECONOMICS OF GRIDS, CLOUDS, SYSTEMS, AND SERVICES, GECON 2015",1,10.1007/978-3-319-43177-2_1,WOS:000389717700001
+2025,Toward Cost-Efficiency and Reduced Carbon Footprint: A Multi-Armed Bandit Hyper-Heuristic for Cloud Scheduling Problems,IEEE ACCESS,1,10.1109/ACCESS.2025.3639273,WOS:001635831000048
+2015,Cloud Services Evaluation through QoE: a methodological approach,2015 27TH INTERNATIONAL SYMPOSIUM ON COMPUTER ARCHITECTURE AND HIGH PERFORMANCE COMPUTING (SBAC-PAD),1,10.1109/SBAC-PAD.2015.30,WOS:000380430500016
+2019,Utility-based Strategy for Balanced Cost and Availability at the Cloud Spot Market,2019 IEEE 12TH INTERNATIONAL CONFERENCE ON CLOUD COMPUTING (IEEE CLOUD 2019),1,10.1109/CLOUD.2019.00045,WOS:000556208000032
+2024,Edge computing and its boundaries to IoT and Industry 4.0: a systematic mapping study,INTERNATIONAL JOURNAL OF GRID AND UTILITY COMPUTING,1,10.1504/IJGUC.2024.142733,WOS:001361005300001
+2014,Green Cloud Computing: An Experimental Validation,HIGH PERFORMANCE COMPUTING SYMPOSIUM 2013 (HPCS 2013),1,10.1088/1742-6596/540/1/012005,WOS:000346426300005
+2017,Requirements Engineering for Cloud Systems: A Mapping Study Design,"COMPUTATIONAL SCIENCE AND ITS APPLICATIONS - ICCSA 2017, PT VI",1,10.1007/978-3-319-62407-5_24,WOS:000451372400024
+2024,Evaluating QoE in Cloud-based Virtual Reality Systems: a Pilot Study,"2024 SYMPOSIUM ON INTERNET OF THINGS, SIOT 2024",1,10.1109/SIOT63830.2024.10780623,WOS:001428165200007
+2017,Cloud-Based Whole Slide Image Analysis Using MapReduce,DATA MANAGEMENT AND ANALYTICS FOR MEDICINE AND HEALTHCARE,1,10.1007/978-3-319-57741-8_5,WOS:000426274300005
+2018,An Architecture for Cost Optimization in the Processing of Big Geospatial Data in Public Cloud Providers,2018 IEEE INTERNATIONAL CONGRESS ON BIG DATA (IEEE BIGDATA CONGRESS),1,10.1109/BigDataCongress.2018.00032,WOS:000450160400024
+2019,"Low-Cost, Practical Data Confidentiality Support for IoT Data Sources",2019 IX BRAZILIAN SYMPOSIUM ON COMPUTING SYSTEMS ENGINEERING (SBESC),1,10.1109/sbesc49506.2019.9046097,WOS:000567862700028
+2025,"Confidential Kubernetes Deployment Models: Architecture, Security, and Performance Trade-Offs",APPLIED SCIENCES-BASEL,1,10.3390/app151810160,WOS:001579525800001
+2026,A Cloud-Based Hyperspectral Framework for Scalable and Sustainable Soil Analysis,ACS AGRICULTURAL SCIENCE & TECHNOLOGY,1,10.1021/acsagscitech.5c00522,WOS:001687378900001
+2020,OLAP parallel query processing in clouds with C-ParGRES,CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE,1,10.1002/cpe.5590,WOS:000503727000001
+2013,aCCountS: A service-oriented architecture for flexible pricing in cloud infrastructure,"7TH BRAZILIAN SYMPOSIUM ON SOFTWARE COMPONENTS, ARCHITECTURES AND REUSE (SBCARS 2013)",1,10.1109/SBCARS.2013.16,WOS:000330035000006
+2020,A Lightweight Reinforcement-Learning-Based Mechanism for Bandwidth Provisioning on Multitenant Data Center,"PROCEEDINGS OF THE 2020 INTERNATIONAL CONFERENCE ON SYSTEMS, SIGNALS AND IMAGE PROCESSING (IWSSIP), 27TH EDITION",1,10.1109/iwssip48289.2020.9145174,WOS:000615731300056
+2015,A Service-Oriented Architecture for Billing Resources in IaaS Cloud Platforms,"30TH ANNUAL ACM SYMPOSIUM ON APPLIED COMPUTING, VOLS I AND II",1,10.1145/2695664.2719244,WOS:000381029800272
+2012,Achieving Flexible SLA and Resource Management in Clouds,ACHIEVING FEDERATED AND SELF-MANAGEABLE CLOUD INFRASTRUCTURES: THEORY AND PRACTICE,1,10.4018/978-1-4666-1631-8.ch014,WOS:000416666700016
+2024,Automation of Security Controls for Continuous Compliance in Vulnerability Management,"13TH LATIN-AMERICAN SYMPOSIUM ON DEPENDABLE AND SECURE COMPUTING, LADC 2024",1,10.1145/3697090.3697107,WOS:001447358400001
+2015,Optimal Cloud Resource Allocation by Means of the Analytic Hierarchy Process,2015 XLI LATIN AMERICAN COMPUTING CONFERENCE (CLEI),1,,WOS:000380459600005
+2023,A Preliminary Review of Function as a Service platform running with AWS Spot Instances,"2023 INTERNATIONAL SYMPOSIUM ON COMPUTER ARCHITECTURE AND HIGH PERFORMANCE COMPUTING WORKSHOPS, SBAC-PADW",1,10.1109/SBAC-PADW60351.2023.00024,WOS:001103200200014
+2022,ERIN: Energy-Aware Resource-Provisioning Framework for CPU-FPGA Multitenant Environment,IEEE DESIGN & TEST,1,10.1109/MDAT.2022.3184634,WOS:000873827300019
+2014,An Architecture for Orchestrating Hadoop Applications in Hybrid Cloud,"2014 14TH IEEE/ACM INTERNATIONAL SYMPOSIUM ON CLUSTER, CLOUD AND GRID COMPUTING (CCGRID)",1,10.1109/CCGrid.2014.46,WOS:000361021000060
+2021,TRIPP: Transparent Resource Provisioning for Multi-Tenant CPU-GPU based Cloud Environments,2021 XI BRAZILIAN SYMPOSIUM ON COMPUTING SYSTEMS ENGINEERING (SBESC),1,10.1109/SBESC53686.2021.9628223,WOS:000853885000002
+2021,A Risk Perception Indicator to Evaluate the Migration of Government Legacy Systems to the Cloud,INTERNATIONAL JOURNAL OF INFORMATION SYSTEMS IN THE SERVICE SECTOR,1,10.4018/IJISSS.2021010104,WOS:000608251100004
+2026,Hybrid Data Lake Entities Localization Optimization Based on Complex Networks,IEEE ACCESS,1,10.1109/ACCESS.2026.3656719,WOS:001674724600010
+2024,Blockchain-Based Lean Supply Chain: A Simulation Approach,INTERNATIONAL JOURNAL OF INNOVATION AND TECHNOLOGY MANAGEMENT,1,10.1142/S021987702450038X,WOS:001214896900001
+2015,An analysis of definition and placement of virtual machines for high performance applications on Clouds,CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE,1,10.1002/cpe.3346,WOS:000353235000008
+2023,Detecting Anomalies Through Sequential Performance Analysis in Virtualized Environments,IEEE ACCESS,1,10.1109/ACCESS.2023.3293643,WOS:001033519500001
+2020,Static job scheduling for environments with vertical elasticity,CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE,1,10.1002/cpe.5761,WOS:000525965800001
+2025,Towards a Novel Vertical Scaling Approach for Bursty Workloads in Kubernetes,"PROCEEDINGS OF THE 18TH IEEE/ACM INTERNATIONAL CONFERENCE ON UTILITY AND CLOUD COMPUTING, UCC 2025",1,10.1145/3773274.3774699,WOS:001669254000054
+2020,A Hybrid Automatic Elasticity Solution for the IaaS Layer based on Dynamic Thresholds and Time Series,2020 15TH IBERIAN CONFERENCE ON INFORMATION SYSTEMS AND TECHNOLOGIES (CISTI'2020),0,,WOS:000612720600355
+2026,A Stochastic Petri Net Approach for Evaluating Resource Utilization and Costs in Cloud-Hosted ZK-Rollups,"2026 IEEE INTERNATIONAL SYSTEMS CONFERENCE, SYSCON",0,10.1109/SysCon66367.2026.11503531,WOS:001849448400061
+2025,IaaS Capacity Planning with Multiple Pricing Models Using Predictive Heuristics,"2025 IEEE INTERNATIONAL CONFERENCE ON CLOUD COMPUTING TECHNOLOGY AND SCIENCE, CLOUDCOM",0,10.1109/CLOUDCOM67567.2025.11331429,WOS:001803247500107
+2025,Design and Evaluation of An Event-Driven Cloud-Based Architecture for A Remote Patient Monitoring System,"2025 IEEE 22ND INTERNATIONAL CONFERENCE ON SOFTWARE ARCHITECTURE COMPANION, ICSA-C",0,10.1109/ICSA-C65153.2025.00019,WOS:001549223000012
+2025,A Multi-Cloud Approach to Cost Optimization with AWS and Azure Fleet Services,"2025 IEEE/SBC 37TH INTERNATIONAL SYMPOSIUM ON COMPUTER ARCHITECTURE AND HIGH PERFORMANCE COMPUTING WORKSHOPS, SBAC-PADW",0,10.1109/SBAC-PADW69789.2025.00017,WOS:001685129200007
+2025,S-iNAS: A Performance-Centric SRN Modeling and Analysis of Time and Event Based Scaling Strategies in Ceph-Based Industrial Network-Attached Storage,JOURNAL OF NETWORK AND SYSTEMS MANAGEMENT,0,10.1007/s10922-025-10005-6,WOS:001631263400001
+2023,Cost-based Virtual Machine Scheduling for Data-as-a-Service,JOURNAL OF UNIVERSAL COMPUTER SCIENCE,0,10.3897/jucs.99223,WOS:001167096400004
+2020,Performance Evaluation of Big Data Applications in Cloud Providers,2020 15TH IBERIAN CONFERENCE ON INFORMATION SYSTEMS AND TECHNOLOGIES (CISTI'2020),0,,WOS:000612720600055
+2027,Assessing cost-efficient portability of reverse time migration across cloud GPUs,JOURNAL OF PARALLEL AND DISTRIBUTED COMPUTING,0,10.1016/j.jpdc.2026.105365,WOS:001895404900001
+2025,How much does it cost to adapt a system?,"2025 IEEE INTERNATIONAL CONFERENCE ON AUTONOMIC COMPUTING AND SELF-ORGANIZING SYSTEMS COMPANION, ACSOS-C",0,10.1109/ACSOS-C66519.2025.00021,WOS:001835404000001
+2026,Comparing the AWS Lambda Serverless Function Deployment Models,"EMERGING TRENDS IN INFORMATION SYSTEMS AND TECHNOLOGIES, WORLDCIST 2025, VOL 1",0,10.1007/978-3-031-97119-8_38,WOS:001709995500038
+2026,Building realistic cybersecurity datasets through a edge cloud testbed with cost-aware monitoring,COMPUTER NETWORKS,0,10.1016/j.comnet.2026.112303,WOS:001743556300001
+2024,A Cost-Efficient Resource Allocation for Fog Computing with Users and Providers Perspective,"2024 IEEE/ACM 17TH INTERNATIONAL CONFERENCE ON UTILITY AND CLOUD COMPUTING, UCC",0,10.1109/UCC63386.2024.00011,WOS:001481541100001
+2016,Parallelism and Scalability: A Solution Focused on the Cloud Computing Processing Service Billing,2016 28TH IEEE INTERNATIONAL SYMPOSIUM ON COMPUTER ARCHITECTURE AND HIGH PERFORMANCE COMPUTING WORKSHOPS (SBAC-PADW),0,,WOS:000398540400006
+2024,From cold starts to pricing: A comparative analysis in executing Node.JS application on AWS Lambda and Azure Functions,"2024 19TH IBERIAN CONFERENCE ON INFORMATION SYSTEMS AND TECHNOLOGIES, CISTI - IBERIAN PROCEEDINGS OF CISTI 2024",0,,WOS:001737933900039
+2025,Extending Microservices Performance Optimization Through Horizontal Pod Autoscaling: A Comprehensive Study,"2025 IEEE INTERNATIONAL PARALLEL AND DISTRIBUTED PROCESSING SYMPOSIUM WORKSHOPS, IPDPSW",0,10.1109/IPDPSW66978.2025.00089,WOS:001566005900072
+2025,Toward Stream Processing Efficiency Leveraging Cloud Burstable Instances,"2025 IEEE INTERNATIONAL CONFERENCE ON CLOUD ENGINEERING, IC2E",0,10.1109/IC2E65552.2025.00039,WOS:001817575000033
+2025,Forecasting AWS Spot Prices: Comparative Analysis of Deep Learning Architectures and Residual Auto-Correlation,SERVICE ORIENTED COMPUTING AND APPLICATIONS,0,10.1007/s11761-025-00475-6,WOS:001599491100001
+2024,Serveless-simulator - Serverless computing simulator,"2024 19TH IBERIAN CONFERENCE ON INFORMATION SYSTEMS AND TECHNOLOGIES, CISTI - IBERIAN PROCEEDINGS OF CISTI 2024",0,,WOS:001737933900024
+2024,A lightweight performance proxy for deep-learning model training on Amazon SageMaker,CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE,0,10.1002/cpe.8104,WOS:001198117500001
+2021,Resource Prediction Service for Efficient Execution of Bioinformatics Workflows in Federated Cloud with Machine Learning,"2021 IEEE INTERNATIONAL CONFERENCE ON BIOINFORMATICS AND BIOMEDICINE, BIBM",0,10.1109/BIBM52615.2021.9669152,WOS:001479664000351
+2021,CLOUD COMPUTING UTILIZATION MODEL FOR SUPPLY CHAINS,INTERCIENCIA,0,,WOS:000641436900002
+2026,"From Source Code to Cost: A Multilingual, Cost-Aware Runtime Prediction Framework for Multi-Cloud FaaS",CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE,0,10.1002/cpe.70928,WOS:001867791400001
+2025,Scalable Optimization of Edge-Cloud Resource Allocation for IoT in Smart Cities,"2025 13TH WIRELESS DAYS CONFERENCE, WD",0,10.1109/WD67713.2025.11302580,WOS:001793412000012
+2026,Evaluating Paramount Iterations as a Performance Proxy for High Performance Computing Applications in the Cloud,CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE,0,10.1002/cpe.70847,WOS:001840552500016
+2026,Adaptive video streaming architecture leveraging QoE forecasting and Content Steering on the Edge-Cloud Continuum,FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF ESCIENCE,0,10.1016/j.future.2026.108521,WOS:001756530700001
+2025,Automated Optical Microscope Integrated With Cloud Computing and YOLOv8m for Mortality Classification of C. elegans,IEEE ACCESS,0,10.1109/ACCESS.2025.3635524,WOS:001631894000017
+2018,Improving Parallelism in Data-Intensive Workflows with Distributed Databases,2018 IEEE INTERNATIONAL CONFERENCE ON SERVICES COMPUTING (IEEE SCC 2018),0,10.1109/SCC.2018.00034,WOS:000501731200027
+2023,Exploring the Serverless First Strategy in Cloud Application Development,"2023 INTERNATIONAL SYMPOSIUM ON COMPUTER ARCHITECTURE AND HIGH PERFORMANCE COMPUTING WORKSHOPS, SBAC-PADW",0,10.1109/SBAC-PADW60351.2023.00023,WOS:001103200200013
+2025,Evaluating Software Aging Resistance in Serverless Computing Under Stress Workloads,"2025 IEEE INTERNATIONAL CONFERENCE ON SYSTEMS, MAN, AND CYBERNETICS, SMC",0,10.1109/SMC58881.2025.11342437,WOS:001761739100024
+2024,Towards a Scalable and Cost Efficient Serverless Scheduler for Dask,"2024 IEEE/ACM 17TH INTERNATIONAL CONFERENCE ON UTILITY AND CLOUD COMPUTING, UCC",0,10.1109/UCC63386.2024.00057,WOS:001481541100047
+2026,Have We Seen These Data Before? A GRASP-Based Execution Strategy for Cloud-based Workflows With Memoization,CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE,0,10.1002/cpe.70672,WOS:001738036900014
+2025,Task-Based HPC in the Cloud: Price-Performance Analysis of N-Body Simulations with StarPU,"2025 IEEE INTERNATIONAL CONFERENCE ON CLOUD ENGINEERING, IC2E",0,10.1109/IC2E65552.2025.00009,WOS:001817575000003
+2025,Leveraging Grid Computing and Emerging Technologies to Support Innovation in Educational Computing,"2025 INTERNATIONAL SYMPOSIUM ON COMPUTERS IN EDUCATION, SIIE",0,10.1109/SIIE68580.2025.11368413,WOS:001713417800028
+2018,Allocation of Virtual Infrastructures on Multiple IaaS Providers with Survivability and Reliability Requirements,PROCEEDINGS 2018 IEEE 32ND INTERNATIONAL CONFERENCE ON ADVANCED INFORMATION NETWORKING AND APPLICATIONS (AINA),0,10.1109/AINA.2018.00164,WOS:000454817500151
+2023,A versatile emulator tool to evaluate the scalability of Edge architectures in IoT scenarios,"2023 IEEE 9TH WORLD FORUM ON INTERNET OF THINGS, WF-IOT",0,10.1109/WF-IOT58464.2023.10539402,WOS:001241286500026
+2019,Cloud.Jus: Architecture for Provisioning Infrastructure as a Service in the Government Sector,CLOSER: PROCEEDINGS OF THE 9TH INTERNATIONAL CONFERENCE ON CLOUD COMPUTING AND SERVICES SCIENCE,0,10.5220/0007731804120421,WOS:000571051500044
+2025,Spotting the Right Cloud Instances with Multiple AWS EC2 Fleets,"2025 IEEE/SBC 37TH INTERNATIONAL SYMPOSIUM ON COMPUTER ARCHITECTURE AND HIGH PERFORMANCE COMPUTING, SBAC-PAD",0,10.1109/SBAC-PAD66369.2025.00017,WOS:001665821900007
+2016,Toward Reliable and Secure Data Access for Big Data Service,"BIG DATA: STORAGE, SHARING, AND SECURITY",0,,WOS:000382859100010
+2020,A Rapid Fuzzy Controller for Decentralized Bandwidth Provisioning on a Multitenant Data Center,"2020 11TH INTERNATIONAL CONFERENCE ON NETWORK OF THE FUTURE, NOF",0,,WOS:001444045200028
+2025,Goal Catalogue for Migrating Web Applications to the Cloud in Smart Cities: A KAOS-Based Approach,"2025 LI LATIN AMERICAN COMPUTER CONFERENCE, CLEI",0,10.1109/CLEI67442.2025.11420643,WOS:001820782100076
+2023,MScheduler: Leveraging Spot Instances for High-Performance Reservoir Simulation in the Cloud,"2023 IEEE INTERNATIONAL CONFERENCE ON CLOUD COMPUTING TECHNOLOGY AND SCIENCE, CLOUDCOM 2023",0,10.1109/CloudCom59040.2023.00028,WOS:001195989900014
+2017,Towards an Application Level Elasticity by Middleware,2017 IEEE SYMPOSIUM ON COMPUTERS AND COMMUNICATIONS (ISCC),0,,WOS:000426895800120
+2025,OPTIC-OPtimized Translation and Interaction for Cloud-Costs: Use of FOCUS Standardization and LLM Integration for Cloud Billing Analysis,IEEE ACCESS,0,10.1109/ACCESS.2025.3643821,WOS:001643431900015
+2018,Virtual Infrastructures on the Move: Containers and Virtual Network Migration,2018 XLIV LATIN AMERICAN COMPUTER CONFERENCE (CLEI 2018),0,10.1109/CLEI.2018.00088,WOS:000502786400077
+2014,VoD in Eucalyptus Platform: Availability Modeling and Sensibility Analysis,2014 10TH INTERNATIONAL CONFERENCE ON NETWORK AND SERVICE MANAGEMENT (CNSM),0,,WOS:000380519800042
+2024,ATSC 3.0 In The Cloud,"19TH IEEE INTERNATIONAL SYMPOSIUM ON BROADBAND MULTIMEDIA SYSTEMS AND BROADCASTING, BMSB 2024",0,10.1109/BMSB62888.2024.10608209,WOS:001285820100113
+2023,Evaluation Model and Performance Analysis of NIC Aggregations in Containerized Private Clouds,"2023 INTERNATIONAL SYMPOSIUM ON COMPUTER ARCHITECTURE AND HIGH PERFORMANCE COMPUTING WORKSHOPS, SBAC-PADW",0,10.1109/SBAC-PADW60351.2023.00025,WOS:001103200200015
+2021,Memoryless: A Two-phase Methodology for Setting Memory Requirements on Serverless Applications,PROCEEDINGS OF THE 17TH INTERNATIONAL CONFERENCE ON WEB INFORMATION SYSTEMS AND TECHNOLOGIES (WEBIST),0,10.5220/0010707500003058,WOS:000795868100007
+2017,A taxonomy for brokerage of IaaS clouds based on virtual infrastructure migration,REVISTA BRASILEIRA DE COMPUTACAO APLICADA,0,10.5335/rbca.v9i1.6445,WOS:000424573500003
+2023,Multiprovision: a Design Space Exploration tool for multi-tenant resource provisioning in CPU-GPU environments,DESIGN AUTOMATION FOR EMBEDDED SYSTEMS,0,10.1007/s10617-023-09279-3,WOS:001127139600001
+2017,Sensitivity Analysis Techniques Applied in Cloud Computing Environments,2017 12TH IBERIAN CONFERENCE ON INFORMATION SYSTEMS AND TECHNOLOGIES (CISTI),0,,WOS:000426896900279
+2018,Cloud Aid - A Cloud Computing Tool for Mitigating Side-Channel Attacks,NOMS 2018 - 2018 IEEE/IFIP NETWORK OPERATIONS AND MANAGEMENT SYMPOSIUM,0,,WOS:000541820800074
+2016,Use of cloud computing in the public sector: a case study of the state of IT managers of Rio Grande do Norte and the Federal Government,REVISTA GESTAO & TECNOLOGIA-JOURNAL OF MANAGEMENT AND TECHNOLOGY,0,10.20397/g&t.v16i1.790,WOS:000384284100007
+2018,REPO: A Microservices Elastic Management System for Cost Reduction in the Cloud,2018 IEEE SYMPOSIUM ON COMPUTERS AND COMMUNICATIONS (ISCC),0,,WOS:000516781500058
+2023,Relation of Energy Consumption in Green Cloud Computing with Big Data,"2023 IEEE GREEN TECHNOLOGIES CONFERENCE, GREENTECH",0,10.1109/GreenTech56823.2023.10173828,WOS:001043037200054
+2017,Cloud Computing in Government: Benefits and Risks in Cloud Contracting,AMCIS 2017 PROCEEDINGS,0,,WOS:000560002500108
+2018,EnLoc: Data Locality-aware Energy-efficient Scheduling Scheme for Cloud Data Centers,2018 IEEE INTERNATIONAL CONFERENCE ON COMMUNICATIONS (ICC),0,,WOS:000519271300147
+2026,From Fragmented DMD Management Toward Digitally Enabled Circularity: A Conceptual Operations Framework for Durable Medical Devices,SUSTAINABILITY,0,10.3390/su18157915,WOS:001847123500001

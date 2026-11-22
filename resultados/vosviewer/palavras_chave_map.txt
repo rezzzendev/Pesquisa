@@ -1,0 +1,301 @@
+id	label	weight<Occurrences>	score<Avg. pub. year>
+1	cloud computing	5198	2018.80
+2	optimization	665	2021.31
+3	resource allocation	511	2020.12
+4	internet of things	500	2021.52
+5	resource management	455	2021.10
+6	serverless computing	455	2023.35
+7	algorithm	447	2021.05
+8	management	439	2019.42
+9	quality of service	437	2019.46
+10	resource provisioning	427	2018.24
+11	security	393	2019.59
+12	virtual machines	363	2019.11
+13	edge computing	349	2022.67
+14	performance	348	2019.59
+15	scheduling	318	2019.52
+16	virtualization	287	2016.66
+17	model	282	2020.32
+18	machine learning	281	2022.17
+19	allocation	279	2020.35
+20	energy efficiency	275	2019.55
+21	internet	269	2021.59
+22	big data	265	2019.29
+23	task scheduling	260	2020.77
+24	framework	247	2020.32
+25	costs	246	2024.14
+26	autoscaling	241	2020.70
+27	energy	239	2019.69
+28	cost	236	2020.62
+29	service level agreement	216	2017.54
+30	fog computing	200	2021.02
+31	load balancing	198	2019.45
+32	data centers	193	2020.01
+33	servers	191	2022.58
+34	cost optimization	177	2021.30
+35	workflow scheduling	177	2020.55
+36	system	174	2020.74
+37	privacy	167	2019.36
+38	energy consumption	165	2021.33
+39	genetic algorithm	164	2019.62
+40	computational modeling	163	2023.09
+41	systems	161	2019.79
+42	simulation	159	2019.35
+43	algorithms	157	2018.99
+44	service	156	2018.81
+45	elasticity	150	2018.93
+46	placement	149	2020.86
+47	challenges	143	2020.62
+48	efficient	143	2020.92
+49	reinforcement learning	140	2023.00
+50	task analysis	135	2021.95
+51	architecture	133	2020.11
+52	scientific workflows	133	2019.94
+53	scalability	130	2020.49
+54	reliability	125	2020.51
+55	consolidation	123	2019.89
+56	deep learning	121	2022.93
+57	prediction	119	2020.25
+58	blockchain	119	2022.82
+59	mapreduce	118	2016.72
+60	design	117	2018.96
+61	data center	117	2017.53
+62	artificial intelligence	109	2023.28
+63	networks	106	2020.57
+64	migration	106	2019.81
+65	iaas	103	2018.02
+66	things	103	2021.00
+67	network	102	2020.75
+68	cloud security	99	2019.93
+69	hybrid cloud	98	2017.91
+70	cloud storage	98	2018.81
+71	kubernetes	97	2023.28
+72	cloud services	97	2018.02
+73	deep reinforcement learning	96	2024.11
+74	scheme	92	2020.83
+75	heuristic algorithms	92	2022.86
+76	workflow	91	2019.41
+77	power	88	2019.00
+78	edge	87	2022.83
+79	aware	87	2021.48
+80	makespan	87	2020.64
+81	containers	86	2022.81
+82	pricing	86	2018.90
+83	delays	84	2022.94
+84	encryption	84	2020.04
+85	multi cloud	83	2019.99
+86	strategy	83	2020.81
+87	spot instances	81	2019.31
+88	mobile cloud computing	80	2018.50
+89	cost efficiency	80	2019.80
+90	microservices	79	2023.06
+91	resource utilization	79	2021.03
+92	fault tolerance	78	2018.69
+93	dynamic scheduling	78	2023.15
+94	particle swarm optimization	78	2019.85
+95	workload prediction	77	2020.51
+96	multi objective optimization	77	2021.75
+97	storage	75	2019.60
+98	saas	75	2015.89
+99	virtual machine placement	74	2019.85
+100	cost minimization	72	2019.10
+101	tasks	72	2020.18
+102	adoption	72	2019.12
+103	services	71	2019.79
+104	mobile edge computing	71	2021.72
+105	performance evaluation	67	2019.36
+106	high performance computing	67	2018.16
+107	computer architecture	65	2023.46
+108	game theory	65	2018.89
+109	availability	65	2019.38
+110	time	64	2020.72
+111	real time systems	64	2023.88
+112	deadline	62	2020.39
+113	latency	61	2021.85
+114	resource scheduling	61	2020.52
+115	access control	61	2019.28
+116	network function virtualization	59	2020.49
+117	data models	59	2023.08
+118	monitoring	59	2020.34
+119	software	58	2018.74
+120	workflows	58	2018.86
+121	scientific workflow	58	2018.84
+122	smart grid	58	2018.53
+123	green computing	57	2017.51
+124	software as a service	57	2016.96
+125	cloudsim	57	2019.47
+126	sustainability	56	2021.80
+127	5g	55	2021.33
+128	distributed computing	55	2018.05
+129	energy efficient	55	2020.05
+130	authentication	55	2018.80
+131	data security	55	2019.47
+132	job scheduling	54	2020.52
+133	infrastructure as a service	53	2017.02
+134	multi tenancy	53	2017.32
+135	heuristics	52	2019.65
+136	models	52	2019.12
+137	computation offloading	51	2020.86
+138	bandwidth	51	2021.92
+139	vm placement	51	2018.63
+140	processor scheduling	51	2023.12
+141	anomaly detection	50	2021.58
+142	scheduling algorithm	50	2020.36
+143	industry 4.0	50	2022.44
+144	classification	50	2021.16
+145	technology	50	2019.78
+146	orchestration	49	2021.43
+147	cost model	49	2017.39
+148	neural network	49	2021.22
+149	data privacy	49	2019.06
+150	resource	48	2018.96
+151	hadoop	48	2016.71
+152	openstack	48	2017.54
+153	selection	48	2019.94
+154	software defined networking	47	2018.60
+155	clouds	47	2021.64
+156	mobile	46	2019.33
+157	nfv	45	2020.18
+158	taxonomy	45	2019.96
+159	sdn	45	2020.04
+160	infrastructure	45	2019.09
+161	modeling	45	2021.71
+162	mechanism	44	2020.02
+163	training	44	2023.93
+164	determinants	44	2020.39
+165	collaboration	44	2021.25
+166	vm migration	43	2019.14
+167	neural networks	43	2021.63
+168	toolkit	43	2019.51
+169	public cloud	42	2018.83
+170	quality	42	2019.69
+171	trust	42	2017.88
+172	efficiency	42	2019.60
+173	fog	41	2021.88
+174	power consumption	41	2019.02
+175	hpc	41	2018.56
+176	secure	41	2020.56
+177	live migration	40	2017.20
+178	impact	40	2020.58
+179	container	40	2021.50
+180	resource optimization	40	2022.22
+181	task offloading	40	2023.83
+182	environments	40	2019.10
+183	virtual machine migration	40	2019.17
+184	search	40	2019.22
+185	paas	39	2017.38
+186	data placement	39	2019.95
+187	throughput	39	2021.67
+188	deployment	39	2021.33
+189	data integrity	39	2021.05
+190	cost aware	38	2018.53
+191	scheduling algorithms	38	2020.34
+192	workload	37	2021.54
+193	dynamic consolidation	37	2018.43
+194	cryptography	37	2020.54
+195	issues	37	2018.62
+196	performance analysis	36	2018.94
+197	digital twin	36	2023.61
+198	green cloud computing	36	2018.25
+199	predictive models	35	2023.03
+200	uncertainty	35	2020.60
+201	cloud service	35	2018.00
+202	measurement	35	2021.20
+203	renewable energy	35	2020.20
+204	environment	35	2021.37
+205	privacy preserving	35	2019.89
+206	intrusion detection	35	2020.71
+207	web applications	34	2019.62
+208	information technology	34	2018.09
+209	replication	34	2020.00
+210	analytics	34	2020.32
+211	online algorithm	34	2021.29
+212	cost effectiveness	34	2020.03
+213	accuracy	34	2024.53
+214	implementation	34	2017.41
+215	dynamic resource provisioning	33	2018.03
+216	performance modeling	33	2020.15
+217	data replication	33	2019.55
+218	cloud federation	33	2017.18
+219	pso	33	2020.36
+220	distributed systems	33	2019.79
+221	homomorphic encryption	33	2018.82
+222	provisioning	32	2017.16
+223	hybrid clouds	32	2017.44
+224	server consolidation	32	2018.72
+225	service placement	32	2022.78
+226	wireless sensor networks	32	2019.75
+227	routing	32	2023.03
+228	cloud service provider	32	2019.31
+229	pricing model	31	2017.61
+230	offloading	31	2021.19
+231	mobile cloud	31	2016.77
+232	smes	31	2018.77
+233	healthcare	31	2018.35
+234	cloud native	30	2022.77
+235	datacenter	30	2017.33
+236	forecasting	30	2021.90
+237	computing environments	30	2018.67
+238	performance prediction	30	2017.70
+239	consumption	30	2020.40
+240	hardware	30	2022.73
+241	fuzzy logic	30	2019.00
+242	integration	30	2020.77
+243	technologies	30	2021.43
+244	profit maximization	29	2018.17
+245	5g mobile communication	29	2023.03
+246	time factors	29	2023.03
+247	autonomic computing	29	2017.52
+248	service level agreements	29	2018.52
+249	cloud migration	29	2018.76
+250	databases	28	2021.54
+251	vm consolidation	28	2018.54
+252	approximation algorithms	28	2022.25
+253	sensors	28	2021.54
+254	adaptation models	27	2023.93
+255	resource prediction	27	2019.04
+256	resources	27	2018.19
+257	genetic algorithms	27	2020.30
+258	amazon ec2	27	2016.67
+259	ant colony optimization	27	2019.48
+260	demand response	27	2021.56
+261	service composition	27	2019.48
+262	energy management	27	2019.89
+263	web services	26	2016.77
+264	time series analysis	26	2022.77
+265	cloud data centers	26	2018.81
+266	data analytics	26	2021.58
+267	cloud data center	26	2020.54
+268	platform	26	2019.00
+269	big data analytics	26	2020.04
+270	cost reduction	26	2020.31
+271	performance optimization	26	2022.04
+272	dvfs	26	2020.50
+273	docker	26	2021.12
+274	quality of experience	26	2020.15
+275	opportunities	26	2019.12
+276	cloud computing security	26	2019.73
+277	grid computing	26	2013.88
+278	games	26	2021.69
+279	aws	25	2021.96
+280	microservice	25	2021.56
+281	analytical models	25	2022.00
+282	cold start	25	2024.28
+283	datacenters	25	2017.88
+284	demand	25	2019.40
+285	cloudlet	25	2018.68
+286	strategies	25	2019.08
+287	lyapunov optimization	25	2018.72
+288	information	25	2018.36
+289	protocols	25	2022.48
+290	network virtualization	24	2017.25
+291	business	24	2019.71
+292	virtual machine (vm)	24	2020.50
+293	response time	24	2019.08
+294	power management	24	2017.75
+295	cost effective	24	2018.79
+296	long short term memory	24	2023.71
+297	mobile computing	24	2018.96
+298	multi objective	24	2022.33
+299	carbon footprint	24	2021.04
+300	minimization	24	2021.54
