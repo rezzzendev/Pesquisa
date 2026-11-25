@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="860" viewBox="0 0 1000 860" font-family="DejaVu Sans, Arial, sans-serif">
+<rect width="1000" height="860" fill="#ffffff"/>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#444"/></marker></defs>
+<text x="500.0" y="32" font-size="20" font-weight="bold" text-anchor="middle" fill="#222">Fluxograma PRISMA 2020 da revisão</text>
+<rect x="10" y="60" width="34" height="120" rx="4" fill="#3b6fb6"/>
+<text x="27" y="120.0" font-size="14" fill="#fff" font-weight="bold" text-anchor="middle" transform="rotate(-90 27 120.0)">Identificação</text>
+<rect x="70" y="70" width="400" height="100" rx="6" fill="#eef3fb" stroke="#3b6fb6" stroke-width="1.5"/>
+<text x="270.0" y="105.0" font-size="15" text-anchor="middle" font-weight="bold" fill="#222">Registros identificados</text>
+<text x="270.0" y="125.0" font-size="15" text-anchor="middle" font-weight="normal" fill="#222">Web of Science Core Collection</text>
+<text x="270.0" y="145.0" font-size="15" text-anchor="middle" font-weight="normal" fill="#222">(n = 10.132)</text>
+<rect x="540" y="70" width="430" height="100" rx="6" fill="#fbf1ee" stroke="#b65a3b" stroke-width="1.5"/>
+<text x="755.0" y="115.0" font-size="15" text-anchor="middle" font-weight="bold" fill="#222">Removidos antes da triagem</text>
+<text x="755.0" y="135.0" font-size="15" text-anchor="middle" font-weight="normal" fill="#222">Duplicados (UT): n = 0</text>
+<line x1="470" y1="120" x2="540" y2="120" stroke="#444" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="10" y="210" width="34" height="300" rx="4" fill="#3b6fb6"/>
+<text x="27" y="360.0" font-size="14" fill="#fff" font-weight="bold" text-anchor="middle" transform="rotate(-90 27 360.0)">Triagem</text>
+<rect x="70" y="220" width="400" height="90" rx="6" fill="#eef3fb" stroke="#3b6fb6" stroke-width="1.5"/>
+<text x="270.0" y="250.0" font-size="15" text-anchor="middle" font-weight="bold" fill="#222">Registros triados</text>
+<text x="270.0" y="270.0" font-size="15" text-anchor="middle" font-weight="normal" fill="#222">(título, resumo e palavras-chave)</text>
+<text x="270.0" y="290.0" font-size="15" text-anchor="middle" font-weight="normal" fill="#222">(n = 10.132)</text>
+<line x1="270.0" y1="170" x2="270.0" y2="220" stroke="#444" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="540" y="220" width="430" height="180" rx="6" fill="#fbf1ee" stroke="#b65a3b" stroke-width="1.5"/>
+<text x="755.0" y="275.0" font-size="15" text-anchor="middle" font-weight="bold" fill="#222">Registros excluídos</text>
+<text x="755.0" y="295.0" font-size="15" text-anchor="middle" font-weight="normal" fill="#222">E1 tipo/sem resumo: n = 44</text>
+<text x="755.0" y="315.0" font-size="15" text-anchor="middle" font-weight="normal" fill="#222">E2 idioma: n = 19</text>
+<text x="755.0" y="335.0" font-size="15" text-anchor="middle" font-weight="normal" fill="#222">E3 sem estratégia elástica: n = 6.757</text>
+<text x="755.0" y="355.0" font-size="15" text-anchor="middle" font-weight="normal" fill="#222">E4 sem economia quantificada: n = 2.872</text>
+<line x1="470" y1="265" x2="540" y2="265" stroke="#444" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="70" y="420" width="400" height="90" rx="6" fill="#eef3fb" stroke="#3b6fb6" stroke-width="1.5"/>
+<text x="270.0" y="450.0" font-size="15" text-anchor="middle" font-weight="bold" fill="#222">Encaminhados para texto completo</text>
+<text x="270.0" y="470.0" font-size="15" text-anchor="middle" font-weight="normal" fill="#222">(n = 440)</text>
+<text x="270.0" y="490.0" font-size="15" text-anchor="middle" font-weight="normal" fill="#222">leitura prioritária: n = 60</text>
+<line x1="270.0" y1="310" x2="270.0" y2="420" stroke="#444" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="10" y="540" width="34" height="140" rx="4" fill="#3b6fb6"/>
+<text x="27" y="610.0" font-size="14" fill="#fff" font-weight="bold" text-anchor="middle" transform="rotate(-90 27 610.0)">Elegibilidade</text>
+<rect x="70" y="550" width="400" height="110" rx="6" fill="#f5f5f5" stroke="#888" stroke-width="1.5"/>
+<text x="270.0" y="600.0" font-size="15" text-anchor="middle" font-weight="bold" fill="#222">Textos completos avaliados</text>
+<text x="270.0" y="620.0" font-size="15" text-anchor="middle" font-weight="normal" fill="#222">(n = a preencher)</text>
+<line x1="270.0" y1="510" x2="270.0" y2="550" stroke="#444" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="540" y="550" width="430" height="110" rx="6" fill="#f5f5f5" stroke="#888" stroke-width="1.5"/>
+<text x="755.0" y="580.0" font-size="15" text-anchor="middle" font-weight="bold" fill="#222">Excluídos na leitura completa</text>
+<text x="755.0" y="600.0" font-size="15" text-anchor="middle" font-weight="normal" fill="#222">sem linha de base fixa: n = …</text>
+<text x="755.0" y="620.0" font-size="15" text-anchor="middle" font-weight="normal" fill="#222">sem dados de custo: n = …</text>
+<text x="755.0" y="640.0" font-size="15" text-anchor="middle" font-weight="normal" fill="#222">texto indisponível: n = …</text>
+<line x1="470" y1="605" x2="540" y2="605" stroke="#444" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="10" y="710" width="34" height="110" rx="4" fill="#3b6fb6"/>
+<text x="27" y="765.0" font-size="14" fill="#fff" font-weight="bold" text-anchor="middle" transform="rotate(-90 27 765.0)">Inclusão</text>
+<rect x="70" y="720" width="400" height="90" rx="6" fill="#eef8ee" stroke="#3b8f4a" stroke-width="1.5"/>
+<text x="270.0" y="760.0" font-size="15" text-anchor="middle" font-weight="bold" fill="#222">Estudos incluídos na síntese</text>
+<text x="270.0" y="780.0" font-size="15" text-anchor="middle" font-weight="normal" fill="#222">(n = a preencher)</text>
+<line x1="270.0" y1="660" x2="270.0" y2="720" stroke="#444" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="980" y="846" font-size="11" text-anchor="end" fill="#777">Etapas de identificação e triagem automatizadas (scripts em analise/); elegibilidade e inclusão por leitura manual.</text>
+</svg>

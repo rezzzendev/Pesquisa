@@ -31,6 +31,8 @@ merge_wos.c                  programa em C que junta os lotes em um único arqui
 wos_completo.txt             base unificada (10.132 registros) — entrada do VOSviewer
 analise/gerar_redes.py       gera as redes (formato VOSviewer) e as tabelas descritivas
 analise/rodar_vosviewer.sh   roda layout + clustering no VOSviewer e exporta mapas e imagens
+analise/triagem_prisma.py    triagem PRISMA automatizada + lista de leitura + fluxograma
+resultados/prisma/           saídas da triagem (CSVs, resumos, contagens)
 resultados/vosviewer/        redes geradas (map + network), antes do layout
 resultados/mapas/            mapas finais do VOSviewer (com posições e clusters) + JSON
 resultados/imagens/          figuras PNG para a apresentação
@@ -49,6 +51,9 @@ python3 analise/gerar_redes.py wos_completo.txt resultados
 
 # 3) layout/clustering e imagens (VOSviewer 1.6.21 + Java 8+)
 bash analise/rodar_vosviewer.sh ~/.local/opt/VOSviewer/VOSviewer.jar
+
+# 4) triagem PRISMA e fluxograma
+python3 analise/triagem_prisma.py wos_completo.txt resultados
 ```
 
 Para explorar um mapa interativamente: abra o VOSviewer → *Open* → escolha `resultados/mapas/<nome>_map.txt` e `<nome>_network.txt` (ou o `.json`).
@@ -84,3 +89,28 @@ Imagens geradas:
 - **Principais veículos:** IEEE Access, Future Generation Computer Systems, IEEE Transactions on Cloud Computing.
 
 Os detalhes estão em `resultados/tabelas/resumo.txt` e nos CSVs (`paises.csv`, `periodicos.csv`, `palavras_chave.csv`, `brasil_artigos.csv`).
+
+## 6. Revisão sistemática (PRISMA 2020)
+
+A identificação e a triagem por título, resumo e palavras-chave foram automatizadas em `analise/triagem_prisma.py`. Os critérios de exclusão são aplicados em ordem:
+
+| Critério | Descrição | Excluídos |
+|---|---|---|
+| E1 | tipo documental não elegível (editorial, carta, retratação) ou sem resumo | 44 |
+| E2 | idioma diferente de inglês/português | 19 |
+| E3 | não aborda estratégia de elasticidade (autoscaling, spot/preemptible, serverless/FaaS, desligamento/agendamento, right-sizing, reservada × sob demanda) | 6.757 |
+| E4 | não relata economia de custo **quantificada** no resumo | 2.872 |
+
+**440 registros** foram encaminhados para leitura de texto completo. Uma **lista prioritária de 60** foi montada pela pontuação, que favorece evidência empírica em nuvem real, cenário web/microsserviços/BD, menção a PMEs e recência, e penaliza nichos distantes como IA/GPU/HPC. A lista garante no mínimo 8 artigos por estratégia.
+
+Das 440, só **4 mencionam PMEs/pequenas empresas** no título, resumo ou palavras-chave, o que reforça a lacuna.
+
+Arquivos em `resultados/prisma/`:
+- `prisma_contagens.txt`: números do fluxograma e estatísticas por estratégia
+- `leitura_prioritaria.csv`: os 60 artigos, com colunas em branco para a extração na leitura do texto completo (incluir S/N, motivo, provedor, carga, linha de base, economia medida, impacto no SLA etc.)
+- `leitura_prioritaria_resumos.txt`: referência e resumo dos 60, para leitura rápida
+- `candidatos_texto_completo.csv`: os 440 candidatos
+- `triagem_completa.csv`: todos os 10.132 registros, com decisão e motivo
+- `estrategias_resumo.csv`: percentuais de economia extraídos dos resumos por estratégia. São só orientação: confirmar no texto completo.
+
+Fluxograma: `resultados/imagens/prisma_fluxograma.png` (e `.svg`). As caixas de elegibilidade e inclusão ficam "a preencher" até terminar a leitura.

@@ -1,0 +1,23 @@
+PRISMA 2020 - contagens da triagem automatizada
+
+Identificados na Web of Science ......................... 10132
+Duplicados removidos (UT) ............................... 0
+Registros triados (titulo/resumo/palavras-chave) ........ 10132
+  E1 tipo documental nao elegivel ou sem resumo ......... 44
+  E2 idioma (nao ingles/portugues) ...................... 19
+  E3 sem estrategia de elasticidade ..................... 6757
+  E4 sem economia de custo quantificada no resumo ....... 2872
+Encaminhados para leitura de texto completo ............. 440
+Lista de leitura prioritaria ............................ 60
+
+Candidatos por estrategia (um artigo pode ter varias):
+  estrategia                   artigos valores %  mediana    min    max
+  autoscaling                      170       271       35  0.008  99.97
+  spot/preemptible                  61       104    51.41      1     99
+  serverless/FaaS                  153       242       42   0.85  99.99
+  reservada x sob demanda           33        51    51.41   0.14   97.2
+  desligamento/agendamento          12        25     29.4      6     99
+  right-sizing                     188       346       35  0.008  99.99
+
+Obs.: os percentuais vem do resumo (extracao automatica) e servem apenas para
+orientar a leitura; os valores do artigo devem ser conferidos no texto completo.
