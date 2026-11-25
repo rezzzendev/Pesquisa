@@ -90,27 +90,39 @@ Imagens geradas:
 
 Os detalhes estão em `resultados/tabelas/resumo.txt` e nos CSVs (`paises.csv`, `periodicos.csv`, `palavras_chave.csv`, `brasil_artigos.csv`).
 
-## 6. Revisão sistemática (PRISMA 2020)
+## 6. Revisão sistemática (PRISMA 2020), com recorte em autoscaling
 
-A identificação e a triagem por título, resumo e palavras-chave foram automatizadas em `analise/triagem_prisma.py`. Os critérios de exclusão são aplicados em ordem:
+A revisão se concentra em **autoscaling**, incluindo escalonamento agendado e desligamento fora do horário, comparado ao provisionamento fixo ou ao autoscaler padrão do mercado. Spot, serverless e instâncias reservadas entram só como contexto na introdução e na discussão.
+
+**Fase 1: triagem automática** (`analise/triagem_prisma.py`)
 
 | Critério | Descrição | Excluídos |
 |---|---|---|
-| E1 | tipo documental não elegível (editorial, carta, retratação) ou sem resumo | 44 |
+| E1 | tipo documental não elegível ou sem resumo | 44 |
 | E2 | idioma diferente de inglês/português | 19 |
-| E3 | não aborda estratégia de elasticidade (autoscaling, spot/preemptible, serverless/FaaS, desligamento/agendamento, right-sizing, reservada × sob demanda) | 6.757 |
-| E4 | não relata economia de custo **quantificada** no resumo | 2.872 |
+| E3 | não aborda autoscaling ou escalonamento elástico/agendado | 8.557 |
+| E4 | não relata economia de custo **quantificada** no resumo | 1.333 |
+| — | versões duplicadas do mesmo trabalho (mesmo título) | 2 |
+| E5 | domínio fora do escopo de PMEs (IA/GPU, IoT/edge, HPC, redes móveis…) | 54 |
 
-**440 registros** foram encaminhados para leitura de texto completo. Uma **lista prioritária de 60** foi montada pela pontuação, que favorece evidência empírica em nuvem real, cenário web/microsserviços/BD, menção a PMEs e recência, e penaliza nichos distantes como IA/GPU/HPC. A lista garante no mínimo 8 artigos por estratégia.
+**Fase 2: leitura assistida dos resumos.** Foram avaliados 123 resumos, e as decisões, com justificativa, estão em `analise/triagem_resumos.csv`.
 
-Das 440, só **4 mencionam PMEs/pequenas empresas** no título, resumo ou palavras-chave, o que reforça a lacuna.
+| Critério | Descrição | Excluídos |
+|---|---|---|
+| R1 | a economia não é custo de nuvem de quem contrata (energia, provedor…) | 15 |
+| R2 | compara só com outros algoritmos acadêmicos, sem baseline fixo ou de mercado | 12 |
+| R3 | carga fora do cenário web/serviço de negócio (lote, big data, streaming…) | 49 |
+| R4 | o autoscaling é periférico no trabalho | 16 |
+
+**31 artigos** seguem para a leitura de texto completo.
 
 Arquivos em `resultados/prisma/`:
-- `prisma_contagens.txt`: números do fluxograma e estatísticas por estratégia
-- `leitura_prioritaria.csv`: os 60 artigos, com colunas em branco para a extração na leitura do texto completo (incluir S/N, motivo, provedor, carga, linha de base, economia medida, impacto no SLA etc.)
-- `leitura_prioritaria_resumos.txt`: referência e resumo dos 60, para leitura rápida
-- `candidatos_texto_completo.csv`: os 440 candidatos
-- `triagem_completa.csv`: todos os 10.132 registros, com decisão e motivo
-- `estrategias_resumo.csv`: percentuais de economia extraídos dos resumos por estratégia. São só orientação: confirmar no texto completo.
+- `leitura_final.csv`: os 31 artigos, com o motivo de leitura e colunas em branco para a extração (incluir S/N, provedor, aplicação, tipo de autoscaling, linha de base, economia medida, impacto no SLA, nuvem real ou simulação)
+- `leitura_final_resumos.txt`: referência, DOI, motivo e resumo de cada um
+- `resumos_triados.csv`: os 123 resumos avaliados, com a decisão
+- `triagem_completa.csv`: os 10.132 registros, com a decisão e o motivo
+- `prisma_contagens.txt`: os números do fluxograma
 
-Fluxograma: `resultados/imagens/prisma_fluxograma.png` (e `.svg`). As caixas de elegibilidade e inclusão ficam "a preencher" até terminar a leitura.
+Fluxograma: `resultados/imagens/prisma_fluxograma.png`. As caixas de elegibilidade e inclusão ficam "a preencher" até a leitura terminar.
+
+Para alterar uma decisão, edite `analise/triagem_resumos.csv` e rode o script de novo. As contagens e o fluxograma são atualizados automaticamente.
