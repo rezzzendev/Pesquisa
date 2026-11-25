@@ -1,0 +1,6 @@
+Cenario,Estrategia,VM-horas/mes,Aplicacao US$,Banco US$,Balanceador US$,Total US$,Total R$,Economia vs A (%),Economia so aplicacao (%),Intervalos com risco de SLA,Utilizacao media (%)
+A,Fixo no pico (sob demanda),5110,343.39,121.18,40.78,505.35,2960.0,0.0,0.0,0,13.5
+B,Fixo no pico (reservada 1 ano),5110,197.25,121.18,40.78,359.21,2103.98,28.9,42.6,0,13.5
+C,Agendado (desliga fora do expediente),3220,216.37,121.18,40.78,378.33,2216.0,25.1,37.0,0,15.9
+D,Autoscaling reativo,2080,139.79,121.18,40.78,301.75,1767.47,40.3,59.3,2,26.3
+E,Autoscaling + base reservada,2080,98.04,121.18,40.78,260.0,1522.89,48.6,71.4,2,26.3

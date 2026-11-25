@@ -1,0 +1,18 @@
+Cálculo ilustrativo - AWS São Paulo, t3.medium + db.t3.medium Single-AZ (50 GB) + ALB
+Câmbio PTAX 24/11/2026: US$ 1 = R$ 5.8573
+
+A  Fixo no pico (sob demanda)               R$   2.960,00/mês  economia   0.0% (aplicação   0.0%)  VM-h   5110  risco SLA   0  util. média 13.5%
+B  Fixo no pico (reservada 1 ano)           R$   2.103,98/mês  economia  28.9% (aplicação  42.6%)  VM-h   5110  risco SLA   0  util. média 13.5%
+C  Agendado (desliga fora do expediente)    R$   2.216,00/mês  economia  25.1% (aplicação  37.0%)  VM-h   3220  risco SLA   0  util. média 15.9%
+D  Autoscaling reativo                      R$   1.767,47/mês  economia  40.3% (aplicação  59.3%)  VM-h   2080  risco SLA   2  util. média 26.3%
+E  Autoscaling + base reservada             R$   1.522,89/mês  economia  48.6% (aplicação  71.4%)  VM-h   2080  risco SLA   2  util. média 26.3%
+
+Sensibilidade (porte: VMs no pico -> economia agendado / autoscaling):
+    2 VMs no pico ->   0.0% /   0.0%
+    4 VMs no pico ->  14.4% /  25.3%
+    5 VMs no pico ->  18.8% /  30.4%
+    7 VMs no pico ->  25.1% /  40.3%
+   10 VMs no pico ->  30.9% /  47.9%
+   13 VMs no pico ->  34.5% /  52.5%
+   19 VMs no pico ->  38.7% /  58.0%
+   25 VMs no pico ->  41.1% /  61.1%

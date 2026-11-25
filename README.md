@@ -1,8 +1,35 @@
-# FinOps e custo de nuvem em PMEs — Análise bibliométrica (Web of Science + VOSviewer)
+# Autoscaling como estratégia de FinOps: revisão sistemática e estimativa de economia de custos em nuvem para PMEs brasileiras
 
-**Pergunta de pesquisa:** quanto uma PME economiza ao trocar provisionamento fixo (dimensionado para o pico) por elasticidade (autoscaling, spot instances, serverless ou desligamento fora do horário), mantendo o nível de serviço?
+## Pergunta e objetivos
 
-Esta etapa é o levantamento bibliométrico que fundamenta o trabalho.
+**Pergunta de pesquisa:** quanto uma PME pode economizar na nuvem ao trocar o provisionamento fixo, dimensionado para o pico, pelo autoscaling, mantendo o nível de serviço?
+
+**Objetivo geral:** estimar a economia de custos que o autoscaling proporciona a PMEs em relação ao provisionamento fixo, a partir de uma revisão sistemática da literatura e de um cálculo ilustrativo com preços reais de nuvem no Brasil.
+
+**Objetivos específicos:**
+1. Mapear a produção científica sobre custo e elasticidade em nuvem e a participação brasileira nela (bibliometria: Web of Science + VOSviewer). Ver seções 1 a 5.
+2. Sintetizar a economia relatada na literatura com autoscaling em relação ao provisionamento fixo e o impacto no nível de serviço (revisão sistemática PRISMA 2020). Ver seção 6.
+3. Estimar, em reais, a economia para um sistema web típico de PME na AWS São Paulo (cálculo ilustrativo). Ver seção 7.
+4. Identificar em que condições o autoscaling compensa e em quais o ganho é pequeno (análise de sensibilidade). Ver seção 7.
+
+**Método:** bibliometria (10.132 registros) → revisão sistemática PRISMA (31 artigos para texto completo) → cálculo ilustrativo de custo.
+
+## Divisão do trabalho e uso de IA
+
+Este levantamento usou um assistente de IA (Claude, da Anthropic) como ferramenta de apoio. A divisão foi a seguinte:
+
+| Etapa | Feito pelo assistente de IA | Feito pelo autor |
+|---|---|---|
+| Tema e pergunta | — | definição do tema (aprovado pela orientadora) e da pergunta |
+| Coleta na WoS | proposta e refinamento da string de busca; automação da exportação dos 21 lotes | acesso via CAPES; acompanhamento da coleta |
+| Junção dos arquivos | programa `merge_wos.c` | execução e conferência |
+| Bibliometria | `gerar_redes.py` e execução do VOSviewer (redes, mapas, tabelas) | conferência dos mapas e dos parâmetros |
+| Recorte e título | propostas de opções | escolha do recorte (autoscaling), do formato do trabalho e do título |
+| Triagem PRISMA | script da fase 1; pré-classificação dos 123 resumos pelos critérios R1–R4 | aprovação dos critérios; conferência de cada decisão (coluna *Conferido pelo autor* em `analise/triagem_resumos.csv`) |
+| Cálculo de custo | modelo e cálculo para a AWS (`calculo_custos.py`) | conferência das suposições; extensão para Azure e Google Cloud |
+| Leitura e síntese | — | leitura dos textos completos, extração dos dados e interpretação |
+
+O andamento de cada etapa está em `PLANO.md`, e o passo a passo detalhado do que falta fazer está em `PASSO_A_PASSO.md`.
 
 ## 1. Coleta (Web of Science)
 
@@ -26,16 +53,22 @@ Uma primeira versão com termos de custo genéricos (`"cost*"`, `pricing`, `"vir
 ## 2. Estrutura do repositório
 
 ```
+PLANO.md                     visão geral das etapas e status
+PASSO_A_PASSO.md             guia detalhado do que falta fazer
 wos_export/                  21 arquivos brutos exportados da WoS (savedrecs_INICIO-FIM.txt)
 merge_wos.c                  programa em C que junta os lotes em um único arquivo
 wos_completo.txt             base unificada (10.132 registros) — entrada do VOSviewer
 analise/gerar_redes.py       gera as redes (formato VOSviewer) e as tabelas descritivas
 analise/rodar_vosviewer.sh   roda layout + clustering no VOSviewer e exporta mapas e imagens
 analise/triagem_prisma.py    triagem PRISMA automatizada + lista de leitura + fluxograma
+analise/triagem_resumos.csv  decisões da leitura dos resumos (editável)
+analise/calculo_custos.py    cálculo ilustrativo de custo (fixo × agendado × autoscaling)
+dados/                       preços oficiais AWS sa-east-1 e câmbio PTAX usados no cálculo
+resultados/calculo/          saídas do cálculo (CSVs e resumo)
 resultados/prisma/           saídas da triagem (CSVs, resumos, contagens)
 resultados/vosviewer/        redes geradas (map + network), antes do layout
 resultados/mapas/            mapas finais do VOSviewer (com posições e clusters) + JSON
-resultados/imagens/          figuras PNG para a apresentação
+resultados/imagens/          figuras (PNG e SVG) para o pôster
 resultados/tabelas/          CSVs e resumo.txt
 ```
 
@@ -54,6 +87,9 @@ bash analise/rodar_vosviewer.sh ~/.local/opt/VOSviewer/VOSviewer.jar
 
 # 4) triagem PRISMA e fluxograma
 python3 analise/triagem_prisma.py wos_completo.txt resultados
+
+# 5) cálculo ilustrativo de custo
+python3 analise/calculo_custos.py dados/precos_aws_sa-east-1.csv resultados
 ```
 
 Para explorar um mapa interativamente: abra o VOSviewer → *Open* → escolha `resultados/mapas/<nome>_map.txt` e `<nome>_network.txt` (ou o `.json`).
@@ -79,7 +115,7 @@ Imagens geradas:
 - `paises_rede.png` e `paises_densidade.png`
 - `cocitacao_fontes_rede.png`
 
-## 5. Principais achados (para a apresentação)
+## 5. Principais achados (para o pôster)
 
 - **Produção:** cresce a partir de 2009, com pico em 2017–2018 (786 docs/ano), queda em 2019–2023 e retomada em 2024–2025 (765 e 813). Ver `tabelas/producao_por_ano.csv`.
 - **Países:** China (2.124), EUA (1.928) e Índia (1.777) dominam. **O Brasil aparece em 14º, com 284 documentos (2,8%)**, e só 4 deles têm autor vinculado a Goiás, nenhum sobre custo de PMEs. Isso sustenta o argumento de "muita demanda real e pouca pesquisa nacional".
@@ -105,7 +141,7 @@ A revisão se concentra em **autoscaling**, incluindo escalonamento agendado e d
 | — | versões duplicadas do mesmo trabalho (mesmo título) | 2 |
 | E5 | domínio fora do escopo de PMEs (IA/GPU, IoT/edge, HPC, redes móveis…) | 54 |
 
-**Fase 2: leitura assistida dos resumos.** Foram avaliados 123 resumos, e as decisões, com justificativa, estão em `analise/triagem_resumos.csv`.
+**Fase 2: classificação dos resumos.** Os 123 resumos foram classificados pelos critérios R1–R4. Cada decisão tem justificativa e está registrada em `analise/triagem_resumos.csv`, com as colunas *Conferido pelo autor* e *Observação do autor* para a validação.
 
 | Critério | Descrição | Excluídos |
 |---|---|---|
@@ -117,6 +153,7 @@ A revisão se concentra em **autoscaling**, incluindo escalonamento agendado e d
 **31 artigos** seguem para a leitura de texto completo.
 
 Arquivos em `resultados/prisma/`:
+- `LEITURA.md`: os 31 artigos com links para o texto completo (DOI e CAPES), em duas prioridades
 - `leitura_final.csv`: os 31 artigos, com o motivo de leitura e colunas em branco para a extração (incluir S/N, provedor, aplicação, tipo de autoscaling, linha de base, economia medida, impacto no SLA, nuvem real ou simulação)
 - `leitura_final_resumos.txt`: referência, DOI, motivo e resumo de cada um
 - `resumos_triados.csv`: os 123 resumos avaliados, com a decisão
@@ -126,3 +163,28 @@ Arquivos em `resultados/prisma/`:
 Fluxograma: `resultados/imagens/prisma_fluxograma.png`. As caixas de elegibilidade e inclusão ficam "a preencher" até a leitura terminar.
 
 Para alterar uma decisão, edite `analise/triagem_resumos.csv` e rode o script de novo. As contagens e o fluxograma são atualizados automaticamente.
+
+## 7. Cálculo ilustrativo de custo
+
+`analise/calculo_custos.py` modela um sistema web típico de PME: aplicação em VMs `t3.medium` atrás de um ALB, com banco PostgreSQL no RDS (`db.t3.medium`, 50 GB). A carga é de horário comercial, com pico de cerca de 100 req/s, almoço, rampa à noite, sábado de manhã e um pico promocional curto. O modelo simula uma semana em intervalos de 15 minutos.
+
+Os preços são **oficiais da AWS para São Paulo** (Price List API, 24/11/2026) e estão em `dados/precos_aws_sa-east-1.csv`. O câmbio é a PTAX do Banco Central (US$ 1 = R$ 5,8573).
+
+| Cenário | R$/mês | Economia total | Economia na aplicação | Risco de SLA* |
+|---|---|---|---|---|
+| A. Fixo no pico (sob demanda) | 2.960,00 | — | — | 0 |
+| B. Fixo no pico (reservada 1 ano) | 2.103,98 | 28,9% | 42,6% | 0 |
+| C. Agendado (desliga fora do expediente) | 2.216,00 | 25,1% | 37,0% | 0 |
+| D. Autoscaling reativo | 1.767,47 | 40,3% | 59,3% | 2 |
+| E. Autoscaling + base reservada | 1.522,89 | 48,6% | 71,4% | 2 |
+
+\* Intervalos de 15 minutos na semana com utilização acima de 85%. No autoscaling, os dois intervalos acontecem no pico promocional: é o atraso de reação do escalonamento reativo.
+
+**Leituras para a discussão:**
+- O banco e o balanceador são custos fixos. Por isso a economia no total (40%) fica bem menor que a economia na camada de aplicação (59%).
+- **O porte importa** (`custo_sensibilidade.png`). Com até cerca de 2 VMs no pico, não há o que economizar, por causa do mínimo de 2 VMs para alta disponibilidade. A economia cresce com o porte: de 25% com 4 VMs para cerca de 60% com 25 VMs.
+- Combinar elasticidade com compra reservada da base (E) dá o melhor resultado. É a abordagem típica de FinOps.
+
+**Limitações:** o modelo não inclui EBS, transferência de dados, impostos ou IOF, nem o tempo de boot dentro do intervalo de 15 minutos, e a carga é sintética. Os parâmetros ficam no início do script.
+
+Figuras: `custo_mensal_cenarios.png`, `custo_semana_vms.png` e `custo_sensibilidade.png`.

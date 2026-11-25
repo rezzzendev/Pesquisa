@@ -29,7 +29,7 @@
 <line x1="470" y1="245" x2="540" y2="245" stroke="#444" stroke-width="1.5" marker-end="url(#a)"/>
 <rect x="70" y="400" width="400" height="90" rx="6" fill="#eef3fb" stroke="#3b6fb6" stroke-width="1.5"/>
 <text x="270.0" y="430.0" font-size="15" text-anchor="middle" font-weight="bold" fill="#222">Resumos avaliados</text>
-<text x="270.0" y="450.0" font-size="15" text-anchor="middle" font-weight="normal" fill="#222">(leitura assistida)</text>
+<text x="270.0" y="450.0" font-size="15" text-anchor="middle" font-weight="normal" fill="#222">(critérios R1–R4)</text>
 <text x="270.0" y="470.0" font-size="15" text-anchor="middle" font-weight="normal" fill="#222">(n = 123)</text>
 <line x1="270.0" y1="290" x2="270.0" y2="400" stroke="#444" stroke-width="1.5" marker-end="url(#a)"/>
 <rect x="540" y="400" width="430" height="140" rx="6" fill="#fbf1ee" stroke="#b65a3b" stroke-width="1.5"/>

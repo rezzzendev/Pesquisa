@@ -1,124 +1,124 @@
-UT,Titulo,Decisao,Codigo,Justificativa
-WOS:001883667900017,A lightweight heuristic for cost-efficient IaaS auto-scaling of small-scale web applications,ler,,"Essencial: auto-scaling para aplicações web de pequena escala (2 a 8 VMs, organizações pequenas); −41,9% vs limiar fixo, com SLA de P99"
-WOS:000583703300008,A Cost-Efficient Container Orchestration Strategy in Kubernetes-Based Cloud Computing Infrastructures with Heterogeneous Resources,ler,,Kubernetes com recursos heterogêneos; −23% a −32% vs Kubernetes padrão; 98 citações
-WOS:001103357200005,DeepScaler: Holistic Autoscaling for Microservices Based on Spatiotemporal GNN with Adaptive Graph Learning,excluir,R2,compara só com outros autoscalers acadêmicos
-WOS:000768717900031,Parslo: A Gradient Descent-based Approach for Near-optimal Partial SLO Allotment in Microservices,excluir,R2,compara com outro esquema acadêmico
-WOS:000550604900001,RHAS: robust hybrid auto-scaling for web applications in cloud computing,ler,,Autoscaling híbrido (reativo + preditivo) para aplicações web; −14% de custo com melhora de SLA
-WOS:001372126600001,Gwydion: Efficient auto-scaling for complex containerized applications in Kubernetes through Reinforcement Learning,ler,,Autoscaling no Kubernetes com microsserviços reais (Online Boutique); compara com o mecanismo padrão
-WOS:001482612800054,Erlang: Application-Aware Autoscaling for Cloud Microservices,ler,,"Compara com autoscaling por limiar de CPU/memória (prática de mercado); −19,3% atendendo a latência-alvo"
-WOS:000861042200007,Efficient evolutionary optimization using predictive auto-scaling in containerized environment,excluir,R3,carga de otimização evolutiva (computação científica)
-WOS:001143865700002,Cdascaler: a cost-effective dynamic autoscaling approach for containerized microservices,excluir,R2,compara com métodos acadêmicos
-WOS:000966487100001,Trace-Driven Scaling of Microservice Applications,ler,,Baseline é o HPA do Kubernetes (padrão de mercado); −34% de custo e −92% de violações
-WOS:001536865000001,CEMA: Cost Effective Multi-Layered Autoscaling for Microservice based Applications,excluir,R2,compara com métodos acadêmicos
-WOS:000831139000003,State Space Model and Queuing Network Based Cloud Resource Provisioning for Meshed Web Systems,excluir,R4,foco em SLA; custo igual ou maior
-WOS:001439294900002,DIMA: machine learning based dynamic infrastructure management for containerized applications,excluir,R2,compara com métodos acadêmicos
-WOS:001619840900001,LMP-Opt: A simulation-based hybrid model for dynamic job scheduling and energy optimization in serverless computing,excluir,R1,"economia de energia, não de custo"
-WOS:001085065100052,MicroBlend: An Automated Service-Blending Framework for Microservice-Based Cloud Applications,excluir,R2,combinação de serviços; baseline não é fixo
-WOS:001833899200022,Predictive Autoscaling with a Safety Net for Microservices,ler,,"Mostra o trade-off custo × SLA: economia de 12% piora o SLA; com SLA garantido, custa 6% a mais (trace da Alibaba)"
-WOS:001534965900001,"Improving scalability, energy efficiency, and cost-effectiveness in Kubernetes clusters using a nonlinear regression-based predictive replica model and ORLE algorithm",excluir,R4,foco em eleição de líder (Raft)
-WOS:001103200200014,A Preliminary Review of Function as a Service platform running with AWS Spot Instances,excluir,R3,FaaS em spot para DNA (HPC)
-WOS:001879846300001,FaaSBoard: Efficient Graph Processing with a Disaggregated Architecture on Serverless Services,excluir,R3,processamento de grafos
-WOS:001732696000014,AutoScaleAI: An AI-Powered Framework for Cloud Resource Optimization Using Telemetry Analytics,ler,,Compara com políticas por limiar (prática comum); −38% de custo
-WOS:001669254000005,Graphpilot: A Temporal Graph Actor-Critic Autoscaler Reducing Degradation of Resource Oscillation in Microservice,excluir,R4,sem economia de custo em números
-WOS:000377231700013,A reliable and cost-efficient auto-scaling system for web applications using heterogeneous spot instances,ler,,Autoscaling de aplicações web com instâncias spot; disponibilidade e custo (64 citações)
-WOS:001103371100045,Faster and Cheaper Serverless Computing on Harvested Resources,excluir,R1,custo do provedor serverless
-WOS:000452538600128,Automated Demand-driven Resource Scaling in Relational Database-as-a-Service,ler,,"Autoscaling de banco relacional como serviço (o BD da PME); 1,5x a 3x mais barato com latência comparável"
-WOS:000427068800106,Cloud Bursting Scheduler for Cost Efficiency,excluir,R3,cloud bursting de jobs (nuvem privada)
-WOS:000528330100001,Resource provisioning using workload clustering in cloud computing environment: a hybrid approach,excluir,R2,"−6,2% vs outros algoritmos"
-WOS:000480426400144,Distributed Machine Learning with a Serverless Architecture,excluir,R3,treino de ML
-WOS:000744416300004,FOX: Cost-Awareness for Autonomic Resource Management in Public Clouds,ler,,Efeito do modelo de cobrança (por hora/segundo) no custo real do autoscaling; −34% na EC2
-WOS:000389717700001,Optimizing Multi-tenant Cloud Resource Pools via Allocation of Reusable Time Slots,excluir,R4,pools multi-inquilino/slots de cobrança
-WOS:001907006800001,Wukong: A Scalable and Locality-Enhanced Framework for Serverless Parallel Computing,excluir,R3,computação paralela serverless
-WOS:000849264800026,Forecasting Cloud Application Workloads With CloudInsight for Predictive Resource Management,excluir,R4,foco no preditor de carga
-WOS:000606543100003,A proactive autoscaling and energy-efficient VM allocation framework using online multi-resource neural network for cloud data center,excluir,R1,energia de data center
-WOS:001448763700020,Sizeless: Predicting the Optimal Size of Serverless Functions,excluir,R4,"dimensionamento de memória de funções, não autoscaling"
-WOS:001147504400003,"GOLGI: Performance-Aware, Resource-Efficient Function Scheduling for Serverless Computing",excluir,R1,custo do provedor (agendamento de funções)
-WOS:001024584400001,An adaptive auto-scaling framework for cloud resource provisioning,ler,,Auto-scaling adaptativo vs regras de limiar; −48% no custo de MySQL
-WOS:001066454400020,Sponge: Fast Reactive Scaling for Stream Processing with Serverless Frameworks,excluir,R3,processamento de streams
-WOS:001109663300017,PROPACK: Executing Concurrent Serverless Functions Faster and Cheaper,excluir,R3,funções paralelas de alta concorrência
-WOS:000616317400030,Minimizing Financial Cost of DDoS Attack Defense in Clouds With Fine-Grained Resource Management,excluir,R3,defesa contra DDoS
-WOS:001035517300084,QoS-Aware and Cost-Efficient Dynamic Resource Allocation for Serverless ML Workflows,excluir,R3,workflows de ML
-WOS:001229041700024,"FaaSGraph: Enabling Scalable, Efficient, and Cost-Effective Graph Processing with Serverless Computing",excluir,R3,processamento de grafos
-WOS:000317385100023,A Pluggable Autoscaling Service for Open Cloud PaaS Systems,ler,,Autoscaler para PaaS e aplicações web; spot reduz custo em 91%
-WOS:001004238600024,Data Placement for Multi-Tenant Data Federation on the Cloud,excluir,R4,posicionamento de dados
-WOS:000332828000009,V-Cache: Towards Flexible Resource Provisioning for Multi-tier Applications in IaaS Clouds,excluir,R1,"economia de CPU/memória, não de custo"
-WOS:000322390700001,A benefit-aware on-demand provisioning approach for multi-tier applications in cloud computing,ler,,"Aplicações multicamadas (web + BD); −30% vs abordagem sem custo, com menos violações de SLA"
-WOS:000826304000004,Dynamic resource provisioning for service-based cloud applications: A Bayesian learning approach,excluir,R2,compara com outros algoritmos
-WOS:000992411400004,INFINISTORE: Elastic Serverless Cloud Storage,excluir,R3,armazenamento serverless
-WOS:001493259300001,A deep reinforcement learning based algorithm for time and cost optimized scaling of serverless applications,excluir,R1,economia do provedor serverless
-WOS:001012875100020,Energy- and Quality of Experience-Aware Dynamic Resource Allocation for Massively Multiplayer Online Games in Heterogeneous Cloud Computing Systems,excluir,R1,energia (jogos online)
-WOS:001272173600001,RLPRAF: Reinforcement Learning-Based Proactive Resource Allocation Framework for Resource Provisioning in Cloud Environment,excluir,R2,baseline pouco claro (outros métodos)
-WOS:001004238600048,Cost-Effective Strong Consistency on Scalable Geo-Diverse Data Replicas,excluir,R3,replicação geo-distribuída (Raft)
-WOS:001416287900016,Blueprinting the Cloud: Unifying and Automatically Optimizing Cloud Data Infrastructures with BRAD,excluir,R3,infraestrutura de dados analíticos
-WOS:001465667000001,Reducing Environmental Impact with Sustainable Serverless Computing,excluir,R4,serverless e sustentabilidade (fora do recorte)
-WOS:001631848000003,HyFaaS: Accelerating Serverless Workflows by Unleashing Hybrid Resource Elasticity,excluir,R3,workflows serverless
-WOS:001151264900001,Joint Autoscaling of Containers and Virtual Machines for Cost Optimization in Container Clusters,ler,,"Autoscaling conjunto de containers e VMs, com aplicação real; ~20% mais barato"
-WOS:001441080300010,Dexter: A Performance-Cost Efficient Resource Allocation Manager for Serverless Data Analytics,excluir,R3,Spark serverless (analytics)
-WOS:000668554300024,Serverless Elastic Exploration of Unbalanced Algorithms,excluir,R3,algoritmos paralelos irregulares
-WOS:000940872700001,Optimizing computational costs of Spark for SARS-CoV-2 sequences comparisons on a commercial cloud,excluir,R3,Spark para sequências genômicas
-WOS:000781209900001,Adaptive processing rate based container provisioning for meshed Micro-services in Kubernetes Clouds,excluir,R4,"foco em SLA; custo +0,9%"
-WOS:001779875700009,Blending Serverful and Serverless Cloud Resources for Cost-Effective Workflow Execution,excluir,R3,workflows
-WOS:001556086900143,Can Reinforcement Learning be Generalized for Efficient Auto-Scaling in Containerized Clouds?,excluir,R2,sem comparação de custo com baseline
-WOS:001030640600030,Bi-Criteria Approximation for a Multi-Origin Multi-Channel Auto-Scaling Live Streaming Cloud,excluir,R3,streaming de vídeo ao vivo
-WOS:000583992700002,ACEP: an adaptive strategy for proactive and elastic processing of complex events,excluir,R3,processamento de eventos complexos
-WOS:000500535000018,FC2: cloud-based cluster provisioning for distributed machine learning,excluir,R3,treino de ML
-WOS:001477834900005,Shattering the Ephemeral Storage Cost Barrier for Data-Intensive Serverless Workflows,excluir,R3,workflows serverless data-intensive
-WOS:001497934400152,Univariate vs multivariate prediction for containerised applications auto-scaling: a comparative study,excluir,R4,compara técnicas de previsão
-WOS:001481122200077,Cost-Optimized Predictive Autoscaling of Cloud Resources Using Game-Theoretic Queuing Theory,ler,,Preditivo vs reativo tradicional; −30% mantendo resposta abaixo de 100 ms
-WOS:001195989900024,Enhanced Runtime-Adaptable Routing for Serverless Functions based on Performance and Cost Tradeoffs in Hybrid Cloud Settings,excluir,R4,roteamento de funções em nuvem híbrida
-WOS:001543390900001,A dynamic pricing model in serverless computing: a Stackelberg game-based approach,excluir,R1,modelo de preço do provedor
-WOS:001735745700040,Twin2Clouds: Cost-Aware Digital Twin Engineering and Deployment Across Federated Clouds,excluir,R3,digital twins multi-cloud
-WOS:001534325100001,Toward a QoS-Guaranteed Cloud Through Elastic Resource Scaling and Request Updating,excluir,R3,funções de rede (NFV)
-WOS:001288681900001,HRMF-DRP: A next-generation solution for overcoming provisioning challenges in cloud environments,excluir,R2,sem baseline de custo claro
-WOS:001567374700026,Deep Reinforcement Learning for Autonomous Cost and Performance Optimization of Big Data Query Engines in the Cloud,excluir,R3,data warehouse/big data
-WOS:001878166600001,"A lattice-theoretic fixed-point framework for SLA-aware, stable, and cost-optimal VM migration",excluir,R1,migração de VMs (lado do provedor)
-WOS:001907702700007,Beyond Trade-Offs: Mashing Serverful and Serverless Cloud Resources for Budget-Constrained Workflow Execution,excluir,R3,workflows
-WOS:001843477800019,HyDuo: A Low-Latency and Cost-Efficient Storage System for Stateful Serverless Applications,excluir,R3,armazenamento serverless
-WOS:001648043200001,AROF: adaptive resource optimization framework for Kubernetes cluster using workload forecasting,ler,,"Baseline são os autoscalers padrão do Kubernetes; −81% de violações de SLA e +22,4% de eficiência de custo"
-WOS:001629482800011,SERVERLESS DATABASES: FUTURE TRENDS IN CLOUD DATABASE MANAGEMENT AND COST OPTIMIZATION,ler,,"BD serverless (Aurora Serverless) vs RDS PostgreSQL fixo; até −45% em carga com picos, com custo de cold start"
-WOS:000556208000030,Spock: Exploiting Serverless Functions for SLO and Cost Aware Resource Procurement in Public Cloud,ler,,Serviços web com VMs + funções serverless vs só VMs; −33% (54 citações)
-WOS:000348053400008,Effective Cost Reduction for Elastic Clouds under Spot Instance Pricing Through Adaptive Checkpointing,excluir,R3,checkpointing de aplicações multithread
-WOS:000399347500070,Elastic Resource Provisioning for Cloud Workflow Applications,excluir,R3,workflows
-WOS:000443894000016,Monitoring Elastically Adaptive Multi-Cloud Services,excluir,R4,monitoramento multi-cloud
-WOS:000404669300008,ElasticSim: A Toolkit for Simulating Workflows with Cloud Resource Runtime Auto-Scaling and Stochastic Task Execution Times,excluir,R3,simulador de workflows
-WOS:000734733800011,On revisiting energy and performance in microservices applications: A cloud elasticity-driven approach,excluir,R1,economia de energia
-WOS:000375224900016,DARAC: DDoS Mitigation Using DDoS Aware Resource Allocation in Cloud,excluir,R3,mitigação de DDoS
-WOS:000630172800012,BurScale: Using Burstable Instances for Cost-Effective Autoscaling in the Public Cloud,ler,,Instâncias burstable (t2/t3) + autoscaling; −50% com o mesmo desempenho; opção típica de PME
-WOS:000474428400013,"Shuffling, Fast and Slow: Scalable Analytics on Serverless Infrastructure",excluir,R3,analytics serverless
-WOS:001115558900001,Cost-Availability Aware Scaling: Towards Optimal Scaling of Cloud Services,ler,,Custo × disponibilidade no escalonamento ('manter o nível de serviço'); −6% a −18%
-WOS:000426952300035,CELIA: Cost-time Performance of Elastic Applications on Cloud,excluir,R3,simulação científica (n-body)
-WOS:000450238900077,Performance and Energy-based Cost Prediction of Virtual Machines Auto-Scaling in Clouds,excluir,R4,predição do custo do autoscaling
-WOS:000679685100003,Entropy4Cloud: Using Entropy-Based Complexity to Optimize Cloud Service Resource Management,excluir,R3,escalonador do Spark
-WOS:000380616900009,DeltaScaling : How resources scalability/termination can be taken place Economically?,ler,,Escalonamento e término de VMs considerando a cobrança; −30% com cerca de 1% de violações
-WOS:000714575300061,Energy-Efficient and Quality of Experience-Aware Resource Provisioning for Massively Multiplayer Online Games in the Cloud,excluir,R1,energia (jogos online)
-WOS:000388131200008,FitScale: Scalability of Legacy Applications Through Migration to Cloud,ler,,Migração de sistemas legados para nuvem com escalonamento vertical; ~5x menor custo; cenário de empresas
-WOS:000346498300013,Bursting the Cloud Data Bubble: Towards Transparent Storage Elasticity in IaaS Clouds,excluir,R4,elasticidade de armazenamento
-WOS:000401700900041,STARS: Startup-Time-Aware Resource Provisioning and Real-Time Task Scheduling in Clouds,excluir,R1,energia de data center
-WOS:001504151700004,Genie: A Lightweight Serverless Infrastructure for In-Memory Key-Value Caching With Fine-Grained and Prompt Elasticity,excluir,R3,cache KV serverless
-WOS:000380476500012,Automating Platform Selection for MapReduce Processing in the Cloud,excluir,R3,MapReduce
-WOS:000412971400006,A clustering-based sampling method for building query response time models,excluir,R4,modelos de tempo de consulta
-WOS:000424872105115,Cost-Efficient VM Configuration Algorithm in the Cloud using Mix Scaling Strategy,ler,,Escalonamento misto (vertical + horizontal) para serviços de empresas; −31%
-WOS:000697278300025,Pocket: Elastic Ephemeral Storage for Serverless Analytics,excluir,R3,armazenamento para analytics
-WOS:000410012400003,Auto-scaling web applications in clouds: A cost-aware approach,ler,,"Auto-scaling de aplicações web com consciência de custo; −7%, controlando oscilação (70 citações)"
-WOS:000325006300007,Autoflex: Service Agnostic Auto-scaling Framework for IaaS Deployment Models,ler,,"Autoflex: −37% vs prática reativa, com violação de SLO de 0,008% (34 citações)"
-WOS:000325725000032,Techniques for Optimizing Cloud Footprint,ler,,Caso real em produção (Netflix); até −50% no custo operacional
-WOS:000358153200018,Profiling-Based Task Scheduling for Factory-Worker Applications in Infrastructure-as-a-Service Clouds,excluir,R3,aplicações factory-worker (lote)
-WOS:000702275600046,Cost-Efficient Overclocking in Immersion-Cooled Datacenters,excluir,R1,custo de plataforma do provedor
-WOS:001448763700017,Experience Paper: Towards Enhancing Cost Efficiency in Serverless Machine Learning Training,excluir,R3,treino de ML serverless
-WOS:001082430100001,MLLEss: Achieving cost efficiency in serverless machine learning training,excluir,R3,treino de ML serverless
-WOS:001231971300001,Exploiting inherent elasticity of serverless in algorithms with unbalanced and irregular workloads,excluir,R3,algoritmos paralelos irregulares
-WOS:001267334100023,Flux: Decoupled Auto-Scaling for Heterogeneous Query Workload in Alibaba AnalyticDB,excluir,R3,data warehouse analítico
-WOS:001646404000001,Energy Consumption Modeling and Elastic Space Computation of Data Centers Considering Spatiotemporal Transfer Flexibility,excluir,R1,energia de data centers
-WOS:000446528400005,RightCapacity: SLA-driven Cross-Layer Cloud Elasticity Management,ler,,SLA-driven para provedor SaaS; −30% com cerca de 1% de violações
-WOS:001711468600016,AutoBurst: Autoscaling Burstable Instances for Cost-effective Latency SLOs,ler,,AutoBurst: autoscaling com burstable e SLO de latência; −25%
-WOS:001905312000001,P2EAS: A lightweight prediction-guided online scheduler with safe energy-aware gap filling for heterogeneous cloud workloads,excluir,R3,escalonamento de jobs
-WOS:001921807100003,Uncertainty-aware hybrid autoscaling with bias-corrected deep forecasting for cost-efficient capacity-shortfall control across cloud workload traces,excluir,R2,trace de cluster; baseline acadêmico
-WOS:001699536200090,ServerlessLSM: Fast RDMA-codesigned Disaggregated Compaction for Elastic Serverless LSM-tree Key-value Store,excluir,R3,key-value store LSM
-WOS:001799336100001,Machine Learning-Driven Resource Provisioning in Modern Cloud Environments: A Taxonomic Survey,ler,,"Revisão relacionada (provisionamento com ML, 35 estudos): usar em 'trabalhos relacionados'"
-WOS:001886371600059,GraphFlash: Enabling Fast and Elastic Graph Processing on Serverless Infrastructure,excluir,R3,processamento de grafos
-WOS:000209576700002,A combined frequency scaling and application elasticity approach for energy-efficient cloud computing,excluir,R1,economia de energia
-WOS:000379333700047,Design and Evaluation of Elastic Media Resource Allocation Algorithms using CloudSim Extensions,excluir,R3,colaboração de mídia em tempo real
-WOS:000425436200001,Cost-efficient enactment of stream processing topologies,excluir,R3,processamento de streams
-WOS:000398536300058,Cloud resource allocation algorithms for elastic media collaboration flows,excluir,R3,colaboração A/V
-WOS:000445184000001,Distributed environment for efficient virtual machine image management in federated Cloud architectures,excluir,R4,gestão de imagens de VM
-WOS:000398536300015,Instance Type Selection in Proactive Horizontal Auto-Scaling,ler,,Escolha do tipo de instância no autoscaling preditivo; até −50%
+UT,Titulo,Decisao,Codigo,Justificativa,Conferido pelo autor (S/N),Observacao do autor
+WOS:001883667900017,A lightweight heuristic for cost-efficient IaaS auto-scaling of small-scale web applications,ler,,"Essencial: auto-scaling para aplicações web de pequena escala (2 a 8 VMs, organizações pequenas); −41,9% vs limiar fixo, com SLA de P99",,
+WOS:000583703300008,A Cost-Efficient Container Orchestration Strategy in Kubernetes-Based Cloud Computing Infrastructures with Heterogeneous Resources,ler,,Kubernetes com recursos heterogêneos; −23% a −32% vs Kubernetes padrão; 98 citações,,
+WOS:001103357200005,DeepScaler: Holistic Autoscaling for Microservices Based on Spatiotemporal GNN with Adaptive Graph Learning,excluir,R2,compara só com outros autoscalers acadêmicos,,
+WOS:000768717900031,Parslo: A Gradient Descent-based Approach for Near-optimal Partial SLO Allotment in Microservices,excluir,R2,compara com outro esquema acadêmico,,
+WOS:000550604900001,RHAS: robust hybrid auto-scaling for web applications in cloud computing,ler,,Autoscaling híbrido (reativo + preditivo) para aplicações web; −14% de custo com melhora de SLA,,
+WOS:001372126600001,Gwydion: Efficient auto-scaling for complex containerized applications in Kubernetes through Reinforcement Learning,ler,,Autoscaling no Kubernetes com microsserviços reais (Online Boutique); compara com o mecanismo padrão,,
+WOS:001482612800054,Erlang: Application-Aware Autoscaling for Cloud Microservices,ler,,"Compara com autoscaling por limiar de CPU/memória (prática de mercado); −19,3% atendendo a latência-alvo",,
+WOS:000861042200007,Efficient evolutionary optimization using predictive auto-scaling in containerized environment,excluir,R3,carga de otimização evolutiva (computação científica),,
+WOS:001143865700002,Cdascaler: a cost-effective dynamic autoscaling approach for containerized microservices,excluir,R2,compara com métodos acadêmicos,,
+WOS:000966487100001,Trace-Driven Scaling of Microservice Applications,ler,,Baseline é o HPA do Kubernetes (padrão de mercado); −34% de custo e −92% de violações,,
+WOS:001536865000001,CEMA: Cost Effective Multi-Layered Autoscaling for Microservice based Applications,excluir,R2,compara com métodos acadêmicos,,
+WOS:000831139000003,State Space Model and Queuing Network Based Cloud Resource Provisioning for Meshed Web Systems,excluir,R4,foco em SLA; custo igual ou maior,,
+WOS:001439294900002,DIMA: machine learning based dynamic infrastructure management for containerized applications,excluir,R2,compara com métodos acadêmicos,,
+WOS:001619840900001,LMP-Opt: A simulation-based hybrid model for dynamic job scheduling and energy optimization in serverless computing,excluir,R1,"economia de energia, não de custo",,
+WOS:001085065100052,MicroBlend: An Automated Service-Blending Framework for Microservice-Based Cloud Applications,excluir,R2,combinação de serviços; baseline não é fixo,,
+WOS:001833899200022,Predictive Autoscaling with a Safety Net for Microservices,ler,,"Mostra o trade-off custo × SLA: economia de 12% piora o SLA; com SLA garantido, custa 6% a mais (trace da Alibaba)",,
+WOS:001534965900001,"Improving scalability, energy efficiency, and cost-effectiveness in Kubernetes clusters using a nonlinear regression-based predictive replica model and ORLE algorithm",excluir,R4,foco em eleição de líder (Raft),,
+WOS:001103200200014,A Preliminary Review of Function as a Service platform running with AWS Spot Instances,excluir,R3,FaaS em spot para DNA (HPC),,
+WOS:001879846300001,FaaSBoard: Efficient Graph Processing with a Disaggregated Architecture on Serverless Services,excluir,R3,processamento de grafos,,
+WOS:001732696000014,AutoScaleAI: An AI-Powered Framework for Cloud Resource Optimization Using Telemetry Analytics,ler,,Compara com políticas por limiar (prática comum); −38% de custo,,
+WOS:001669254000005,Graphpilot: A Temporal Graph Actor-Critic Autoscaler Reducing Degradation of Resource Oscillation in Microservice,excluir,R4,sem economia de custo em números,,
+WOS:000377231700013,A reliable and cost-efficient auto-scaling system for web applications using heterogeneous spot instances,ler,,Autoscaling de aplicações web com instâncias spot; disponibilidade e custo (64 citações),,
+WOS:001103371100045,Faster and Cheaper Serverless Computing on Harvested Resources,excluir,R1,custo do provedor serverless,,
+WOS:000452538600128,Automated Demand-driven Resource Scaling in Relational Database-as-a-Service,ler,,"Autoscaling de banco relacional como serviço (o BD da PME); 1,5x a 3x mais barato com latência comparável",,
+WOS:000427068800106,Cloud Bursting Scheduler for Cost Efficiency,excluir,R3,cloud bursting de jobs (nuvem privada),,
+WOS:000528330100001,Resource provisioning using workload clustering in cloud computing environment: a hybrid approach,excluir,R2,"−6,2% vs outros algoritmos",,
+WOS:000480426400144,Distributed Machine Learning with a Serverless Architecture,excluir,R3,treino de ML,,
+WOS:000744416300004,FOX: Cost-Awareness for Autonomic Resource Management in Public Clouds,ler,,Efeito do modelo de cobrança (por hora/segundo) no custo real do autoscaling; −34% na EC2,,
+WOS:000389717700001,Optimizing Multi-tenant Cloud Resource Pools via Allocation of Reusable Time Slots,excluir,R4,pools multi-inquilino/slots de cobrança,,
+WOS:001907006800001,Wukong: A Scalable and Locality-Enhanced Framework for Serverless Parallel Computing,excluir,R3,computação paralela serverless,,
+WOS:000849264800026,Forecasting Cloud Application Workloads With CloudInsight for Predictive Resource Management,excluir,R4,foco no preditor de carga,,
+WOS:000606543100003,A proactive autoscaling and energy-efficient VM allocation framework using online multi-resource neural network for cloud data center,excluir,R1,energia de data center,,
+WOS:001448763700020,Sizeless: Predicting the Optimal Size of Serverless Functions,excluir,R4,"dimensionamento de memória de funções, não autoscaling",,
+WOS:001147504400003,"GOLGI: Performance-Aware, Resource-Efficient Function Scheduling for Serverless Computing",excluir,R1,custo do provedor (agendamento de funções),,
+WOS:001024584400001,An adaptive auto-scaling framework for cloud resource provisioning,ler,,Auto-scaling adaptativo vs regras de limiar; −48% no custo de MySQL,,
+WOS:001066454400020,Sponge: Fast Reactive Scaling for Stream Processing with Serverless Frameworks,excluir,R3,processamento de streams,,
+WOS:001109663300017,PROPACK: Executing Concurrent Serverless Functions Faster and Cheaper,excluir,R3,funções paralelas de alta concorrência,,
+WOS:000616317400030,Minimizing Financial Cost of DDoS Attack Defense in Clouds With Fine-Grained Resource Management,excluir,R3,defesa contra DDoS,,
+WOS:001035517300084,QoS-Aware and Cost-Efficient Dynamic Resource Allocation for Serverless ML Workflows,excluir,R3,workflows de ML,,
+WOS:001229041700024,"FaaSGraph: Enabling Scalable, Efficient, and Cost-Effective Graph Processing with Serverless Computing",excluir,R3,processamento de grafos,,
+WOS:000317385100023,A Pluggable Autoscaling Service for Open Cloud PaaS Systems,ler,,Autoscaler para PaaS e aplicações web; spot reduz custo em 91%,,
+WOS:001004238600024,Data Placement for Multi-Tenant Data Federation on the Cloud,excluir,R4,posicionamento de dados,,
+WOS:000332828000009,V-Cache: Towards Flexible Resource Provisioning for Multi-tier Applications in IaaS Clouds,excluir,R1,"economia de CPU/memória, não de custo",,
+WOS:000322390700001,A benefit-aware on-demand provisioning approach for multi-tier applications in cloud computing,ler,,"Aplicações multicamadas (web + BD); −30% vs abordagem sem custo, com menos violações de SLA",,
+WOS:000826304000004,Dynamic resource provisioning for service-based cloud applications: A Bayesian learning approach,excluir,R2,compara com outros algoritmos,,
+WOS:000992411400004,INFINISTORE: Elastic Serverless Cloud Storage,excluir,R3,armazenamento serverless,,
+WOS:001493259300001,A deep reinforcement learning based algorithm for time and cost optimized scaling of serverless applications,excluir,R1,economia do provedor serverless,,
+WOS:001012875100020,Energy- and Quality of Experience-Aware Dynamic Resource Allocation for Massively Multiplayer Online Games in Heterogeneous Cloud Computing Systems,excluir,R1,energia (jogos online),,
+WOS:001272173600001,RLPRAF: Reinforcement Learning-Based Proactive Resource Allocation Framework for Resource Provisioning in Cloud Environment,excluir,R2,baseline pouco claro (outros métodos),,
+WOS:001004238600048,Cost-Effective Strong Consistency on Scalable Geo-Diverse Data Replicas,excluir,R3,replicação geo-distribuída (Raft),,
+WOS:001416287900016,Blueprinting the Cloud: Unifying and Automatically Optimizing Cloud Data Infrastructures with BRAD,excluir,R3,infraestrutura de dados analíticos,,
+WOS:001465667000001,Reducing Environmental Impact with Sustainable Serverless Computing,excluir,R4,serverless e sustentabilidade (fora do recorte),,
+WOS:001631848000003,HyFaaS: Accelerating Serverless Workflows by Unleashing Hybrid Resource Elasticity,excluir,R3,workflows serverless,,
+WOS:001151264900001,Joint Autoscaling of Containers and Virtual Machines for Cost Optimization in Container Clusters,ler,,"Autoscaling conjunto de containers e VMs, com aplicação real; ~20% mais barato",,
+WOS:001441080300010,Dexter: A Performance-Cost Efficient Resource Allocation Manager for Serverless Data Analytics,excluir,R3,Spark serverless (analytics),,
+WOS:000668554300024,Serverless Elastic Exploration of Unbalanced Algorithms,excluir,R3,algoritmos paralelos irregulares,,
+WOS:000940872700001,Optimizing computational costs of Spark for SARS-CoV-2 sequences comparisons on a commercial cloud,excluir,R3,Spark para sequências genômicas,,
+WOS:000781209900001,Adaptive processing rate based container provisioning for meshed Micro-services in Kubernetes Clouds,excluir,R4,"foco em SLA; custo +0,9%",,
+WOS:001779875700009,Blending Serverful and Serverless Cloud Resources for Cost-Effective Workflow Execution,excluir,R3,workflows,,
+WOS:001556086900143,Can Reinforcement Learning be Generalized for Efficient Auto-Scaling in Containerized Clouds?,excluir,R2,sem comparação de custo com baseline,,
+WOS:001030640600030,Bi-Criteria Approximation for a Multi-Origin Multi-Channel Auto-Scaling Live Streaming Cloud,excluir,R3,streaming de vídeo ao vivo,,
+WOS:000583992700002,ACEP: an adaptive strategy for proactive and elastic processing of complex events,excluir,R3,processamento de eventos complexos,,
+WOS:000500535000018,FC2: cloud-based cluster provisioning for distributed machine learning,excluir,R3,treino de ML,,
+WOS:001477834900005,Shattering the Ephemeral Storage Cost Barrier for Data-Intensive Serverless Workflows,excluir,R3,workflows serverless data-intensive,,
+WOS:001497934400152,Univariate vs multivariate prediction for containerised applications auto-scaling: a comparative study,excluir,R4,compara técnicas de previsão,,
+WOS:001481122200077,Cost-Optimized Predictive Autoscaling of Cloud Resources Using Game-Theoretic Queuing Theory,ler,,Preditivo vs reativo tradicional; −30% mantendo resposta abaixo de 100 ms,,
+WOS:001195989900024,Enhanced Runtime-Adaptable Routing for Serverless Functions based on Performance and Cost Tradeoffs in Hybrid Cloud Settings,excluir,R4,roteamento de funções em nuvem híbrida,,
+WOS:001543390900001,A dynamic pricing model in serverless computing: a Stackelberg game-based approach,excluir,R1,modelo de preço do provedor,,
+WOS:001735745700040,Twin2Clouds: Cost-Aware Digital Twin Engineering and Deployment Across Federated Clouds,excluir,R3,digital twins multi-cloud,,
+WOS:001534325100001,Toward a QoS-Guaranteed Cloud Through Elastic Resource Scaling and Request Updating,excluir,R3,funções de rede (NFV),,
+WOS:001288681900001,HRMF-DRP: A next-generation solution for overcoming provisioning challenges in cloud environments,excluir,R2,sem baseline de custo claro,,
+WOS:001567374700026,Deep Reinforcement Learning for Autonomous Cost and Performance Optimization of Big Data Query Engines in the Cloud,excluir,R3,data warehouse/big data,,
+WOS:001878166600001,"A lattice-theoretic fixed-point framework for SLA-aware, stable, and cost-optimal VM migration",excluir,R1,migração de VMs (lado do provedor),,
+WOS:001907702700007,Beyond Trade-Offs: Mashing Serverful and Serverless Cloud Resources for Budget-Constrained Workflow Execution,excluir,R3,workflows,,
+WOS:001843477800019,HyDuo: A Low-Latency and Cost-Efficient Storage System for Stateful Serverless Applications,excluir,R3,armazenamento serverless,,
+WOS:001648043200001,AROF: adaptive resource optimization framework for Kubernetes cluster using workload forecasting,ler,,"Baseline são os autoscalers padrão do Kubernetes; −81% de violações de SLA e +22,4% de eficiência de custo",,
+WOS:001629482800011,SERVERLESS DATABASES: FUTURE TRENDS IN CLOUD DATABASE MANAGEMENT AND COST OPTIMIZATION,ler,,"BD serverless (Aurora Serverless) vs RDS PostgreSQL fixo; até −45% em carga com picos, com custo de cold start",,
+WOS:000556208000030,Spock: Exploiting Serverless Functions for SLO and Cost Aware Resource Procurement in Public Cloud,ler,,Serviços web com VMs + funções serverless vs só VMs; −33% (54 citações),,
+WOS:000348053400008,Effective Cost Reduction for Elastic Clouds under Spot Instance Pricing Through Adaptive Checkpointing,excluir,R3,checkpointing de aplicações multithread,,
+WOS:000399347500070,Elastic Resource Provisioning for Cloud Workflow Applications,excluir,R3,workflows,,
+WOS:000443894000016,Monitoring Elastically Adaptive Multi-Cloud Services,excluir,R4,monitoramento multi-cloud,,
+WOS:000404669300008,ElasticSim: A Toolkit for Simulating Workflows with Cloud Resource Runtime Auto-Scaling and Stochastic Task Execution Times,excluir,R3,simulador de workflows,,
+WOS:000734733800011,On revisiting energy and performance in microservices applications: A cloud elasticity-driven approach,excluir,R1,economia de energia,,
+WOS:000375224900016,DARAC: DDoS Mitigation Using DDoS Aware Resource Allocation in Cloud,excluir,R3,mitigação de DDoS,,
+WOS:000630172800012,BurScale: Using Burstable Instances for Cost-Effective Autoscaling in the Public Cloud,ler,,Instâncias burstable (t2/t3) + autoscaling; −50% com o mesmo desempenho; opção típica de PME,,
+WOS:000474428400013,"Shuffling, Fast and Slow: Scalable Analytics on Serverless Infrastructure",excluir,R3,analytics serverless,,
+WOS:001115558900001,Cost-Availability Aware Scaling: Towards Optimal Scaling of Cloud Services,ler,,Custo × disponibilidade no escalonamento ('manter o nível de serviço'); −6% a −18%,,
+WOS:000426952300035,CELIA: Cost-time Performance of Elastic Applications on Cloud,excluir,R3,simulação científica (n-body),,
+WOS:000450238900077,Performance and Energy-based Cost Prediction of Virtual Machines Auto-Scaling in Clouds,excluir,R4,predição do custo do autoscaling,,
+WOS:000679685100003,Entropy4Cloud: Using Entropy-Based Complexity to Optimize Cloud Service Resource Management,excluir,R3,escalonador do Spark,,
+WOS:000380616900009,DeltaScaling : How resources scalability/termination can be taken place Economically?,ler,,Escalonamento e término de VMs considerando a cobrança; −30% com cerca de 1% de violações,,
+WOS:000714575300061,Energy-Efficient and Quality of Experience-Aware Resource Provisioning for Massively Multiplayer Online Games in the Cloud,excluir,R1,energia (jogos online),,
+WOS:000388131200008,FitScale: Scalability of Legacy Applications Through Migration to Cloud,ler,,Migração de sistemas legados para nuvem com escalonamento vertical; ~5x menor custo; cenário de empresas,,
+WOS:000346498300013,Bursting the Cloud Data Bubble: Towards Transparent Storage Elasticity in IaaS Clouds,excluir,R4,elasticidade de armazenamento,,
+WOS:000401700900041,STARS: Startup-Time-Aware Resource Provisioning and Real-Time Task Scheduling in Clouds,excluir,R1,energia de data center,,
+WOS:001504151700004,Genie: A Lightweight Serverless Infrastructure for In-Memory Key-Value Caching With Fine-Grained and Prompt Elasticity,excluir,R3,cache KV serverless,,
+WOS:000380476500012,Automating Platform Selection for MapReduce Processing in the Cloud,excluir,R3,MapReduce,,
+WOS:000412971400006,A clustering-based sampling method for building query response time models,excluir,R4,modelos de tempo de consulta,,
+WOS:000424872105115,Cost-Efficient VM Configuration Algorithm in the Cloud using Mix Scaling Strategy,ler,,Escalonamento misto (vertical + horizontal) para serviços de empresas; −31%,,
+WOS:000697278300025,Pocket: Elastic Ephemeral Storage for Serverless Analytics,excluir,R3,armazenamento para analytics,,
+WOS:000410012400003,Auto-scaling web applications in clouds: A cost-aware approach,ler,,"Auto-scaling de aplicações web com consciência de custo; −7%, controlando oscilação (70 citações)",,
+WOS:000325006300007,Autoflex: Service Agnostic Auto-scaling Framework for IaaS Deployment Models,ler,,"Autoflex: −37% vs prática reativa, com violação de SLO de 0,008% (34 citações)",,
+WOS:000325725000032,Techniques for Optimizing Cloud Footprint,ler,,Caso real em produção (Netflix); até −50% no custo operacional,,
+WOS:000358153200018,Profiling-Based Task Scheduling for Factory-Worker Applications in Infrastructure-as-a-Service Clouds,excluir,R3,aplicações factory-worker (lote),,
+WOS:000702275600046,Cost-Efficient Overclocking in Immersion-Cooled Datacenters,excluir,R1,custo de plataforma do provedor,,
+WOS:001448763700017,Experience Paper: Towards Enhancing Cost Efficiency in Serverless Machine Learning Training,excluir,R3,treino de ML serverless,,
+WOS:001082430100001,MLLEss: Achieving cost efficiency in serverless machine learning training,excluir,R3,treino de ML serverless,,
+WOS:001231971300001,Exploiting inherent elasticity of serverless in algorithms with unbalanced and irregular workloads,excluir,R3,algoritmos paralelos irregulares,,
+WOS:001267334100023,Flux: Decoupled Auto-Scaling for Heterogeneous Query Workload in Alibaba AnalyticDB,excluir,R3,data warehouse analítico,,
+WOS:001646404000001,Energy Consumption Modeling and Elastic Space Computation of Data Centers Considering Spatiotemporal Transfer Flexibility,excluir,R1,energia de data centers,,
+WOS:000446528400005,RightCapacity: SLA-driven Cross-Layer Cloud Elasticity Management,ler,,SLA-driven para provedor SaaS; −30% com cerca de 1% de violações,,
+WOS:001711468600016,AutoBurst: Autoscaling Burstable Instances for Cost-effective Latency SLOs,ler,,AutoBurst: autoscaling com burstable e SLO de latência; −25%,,
+WOS:001905312000001,P2EAS: A lightweight prediction-guided online scheduler with safe energy-aware gap filling for heterogeneous cloud workloads,excluir,R3,escalonamento de jobs,,
+WOS:001921807100003,Uncertainty-aware hybrid autoscaling with bias-corrected deep forecasting for cost-efficient capacity-shortfall control across cloud workload traces,excluir,R2,trace de cluster; baseline acadêmico,,
+WOS:001699536200090,ServerlessLSM: Fast RDMA-codesigned Disaggregated Compaction for Elastic Serverless LSM-tree Key-value Store,excluir,R3,key-value store LSM,,
+WOS:001799336100001,Machine Learning-Driven Resource Provisioning in Modern Cloud Environments: A Taxonomic Survey,ler,,"Revisão relacionada (provisionamento com ML, 35 estudos): usar em 'trabalhos relacionados'",,
+WOS:001886371600059,GraphFlash: Enabling Fast and Elastic Graph Processing on Serverless Infrastructure,excluir,R3,processamento de grafos,,
+WOS:000209576700002,A combined frequency scaling and application elasticity approach for energy-efficient cloud computing,excluir,R1,economia de energia,,
+WOS:000379333700047,Design and Evaluation of Elastic Media Resource Allocation Algorithms using CloudSim Extensions,excluir,R3,colaboração de mídia em tempo real,,
+WOS:000425436200001,Cost-efficient enactment of stream processing topologies,excluir,R3,processamento de streams,,
+WOS:000398536300058,Cloud resource allocation algorithms for elastic media collaboration flows,excluir,R3,colaboração A/V,,
+WOS:000445184000001,Distributed environment for efficient virtual machine image management in federated Cloud architectures,excluir,R4,gestão de imagens de VM,,
+WOS:000398536300015,Instance Type Selection in Proactive Horizontal Auto-Scaling,ler,,Escolha do tipo de instância no autoscaling preditivo; até −50%,,

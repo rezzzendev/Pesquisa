@@ -9,7 +9,7 @@ Triados automaticamente (titulo/resumo/palavras-chave) ..... 10132
   E4 sem economia de custo quantificada no resumo .......... 1333
   versoes duplicadas do mesmo trabalho ..................... 2
   E5 dominio fora do escopo (IA/GPU, IoT/edge, HPC...) ..... 54
-Resumos avaliados (leitura assistida) ...................... 123
+Resumos avaliados (criterios R1-R4) ........................ 123
   R1 economia nao e custo de nuvem do contratante .......... 15
   R2 so compara com outros algoritmos academicos ........... 12
   R3 carga fora do cenario web/servico de negocio .......... 49

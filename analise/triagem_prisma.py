@@ -15,8 +15,9 @@ Fase 1 - triagem automatica (titulo, resumo, palavras-chave), nesta ordem:
   E5  dominio de aplicacao fora do escopo de PMEs (servir modelos de IA/GPU, IoT/edge,
       HPC, workflows cientificos, robotica, blockchain, redes moveis...)
 
-Fase 2 - triagem dos resumos (leitura assistida), registrada em
-  analise/triagem_resumos.csv  (colunas: UT, Titulo, Decisao, Codigo, Justificativa)
+Fase 2 - classificacao dos resumos pelos criterios R1-R4, registrada em
+  analise/triagem_resumos.csv  (colunas: UT, Titulo, Decisao, Codigo, Justificativa,
+  Conferido pelo autor, Observacao do autor)
   Decisao = "ler" (vai para texto completo) ou "excluir", com o codigo:
   R1  a economia relatada nao e de custo de nuvem para quem contrata (energia,
       receita do provedor, preco de leilao...)
@@ -217,7 +218,7 @@ def main():
         f"  E4 sem economia de custo quantificada no resumo .......... {n['E4']}",
         f"  versoes duplicadas do mesmo trabalho ..................... {n['D']}",
         f"  E5 dominio fora do escopo (IA/GPU, IoT/edge, HPC...) ..... {n['E5']}",
-        f"Resumos avaliados (leitura assistida) ...................... {n['resumos']}",
+        f"Resumos avaliados (criterios R1-R4) ........................ {n['resumos']}",
         f"  R1 economia nao e custo de nuvem do contratante .......... {n['R1']}",
         f"  R2 so compara com outros algoritmos academicos ........... {n['R2']}",
         f"  R3 carga fora do cenario web/servico de negocio .......... {n['R3']}",
@@ -279,7 +280,7 @@ def fluxograma(idir, n):
                              f"versões duplicadas: n = {f(n['D'])}",
                              f"E5 domínio fora do escopo: n = {f(n['E5'])}"], **exc)
     seta(L + CW, 245, R, 245)
-    caixa(L, 400, CW, 90, ["Resumos avaliados", "(leitura assistida)", f"(n = {f(n['resumos'])})"])
+    caixa(L, 400, CW, 90, ["Resumos avaliados", "(critérios R1–R4)", f"(n = {f(n['resumos'])})"])
     seta(cx, 290, cx, 400)
     caixa(R, 400, RW, 140, ["Resumos excluídos",
                              f"R1 economia não é custo de nuvem: n = {f(n['R1'])}",
